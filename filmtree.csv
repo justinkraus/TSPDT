@@ -1,0 +1,1491 @@
+﻿name,parent
+They Shoot Pictures Don't They?,
+English,They Shoot Pictures Don't They?
+Foreign,They Shoot Pictures Don't They?
+English | Long,English
+English | Short,English
+Foreign | Long,Foreign
+Foreign | Short,Foreign
+English | Long | Pre-1950,English | Long
+English | Long | 1950-1990,English | Long
+English | Long | 1990-Now,English | Long
+English | Short | Pre-1950,English | Short
+English | Short | 1950-1990,English | Short
+English | Short | 1990-Now,English | Short
+Foreign | Long | Pre-1950,Foreign | Long
+Foreign | Long | 1950-1990,Foreign | Long
+Foreign | Long | 1990-Now,Foreign | Long
+Foreign | Short | Pre-1950,Foreign | Short
+Foreign | Short | 1950-1990,Foreign | Short
+Foreign | Short | 1990-Now,Foreign | Short
+English | Long | Pre-1950 | Adventure,English | Long | Pre-1950
+English | Long | Pre-1950 | Comedy,English | Long | Pre-1950
+English | Long | Pre-1950 | Drama,English | Long | Pre-1950
+English | Long | Pre-1950 | Fantasy,English | Long | Pre-1950
+English | Long | Pre-1950 | Musical,English | Long | Pre-1950
+English | Long | Pre-1950 | Thriller,English | Long | Pre-1950
+English | Long | 1950-1990 | Action,English | Long | 1950-1990
+English | Long | 1950-1990 | Adventure,English | Long | 1950-1990
+English | Long | 1950-1990 | Comedy,English | Long | 1950-1990
+English | Long | 1950-1990 | Documentary,English | Long | 1950-1990
+English | Long | 1950-1990 | Drama,English | Long | 1950-1990
+English | Long | 1950-1990 | Fantasy,English | Long | 1950-1990
+English | Long | 1950-1990 | Horror,English | Long | 1950-1990
+English | Long | 1950-1990 | Musical,English | Long | 1950-1990
+English | Long | 1950-1990 | Science Fiction,English | Long | 1950-1990
+English | Long | 1950-1990 | Thriller,English | Long | 1950-1990
+English | Long | 1990-Now | Action,English | Long | 1990-Now
+English | Long | 1990-Now | Adventure,English | Long | 1990-Now
+English | Long | 1990-Now | Comedy,English | Long | 1990-Now
+English | Long | 1990-Now | Documentary,English | Long | 1990-Now
+English | Long | 1990-Now | Drama,English | Long | 1990-Now
+English | Long | 1990-Now | Musical,English | Long | 1990-Now
+English | Long | 1990-Now | Science Fiction,English | Long | 1990-Now
+English | Long | 1990-Now | Thriller,English | Long | 1990-Now
+English | Short | Pre-1950 | Adventure,English | Short | Pre-1950
+English | Short | Pre-1950 | Animated,English | Short | Pre-1950
+English | Short | Pre-1950 | Comedy,English | Short | Pre-1950
+English | Short | Pre-1950 | Documentary,English | Short | Pre-1950
+English | Short | Pre-1950 | Drama,English | Short | Pre-1950
+English | Short | Pre-1950 | Fantasy,English | Short | Pre-1950
+English | Short | Pre-1950 | Horror,English | Short | Pre-1950
+English | Short | Pre-1950 | Musical,English | Short | Pre-1950
+English | Short | Pre-1950 | Thriller,English | Short | Pre-1950
+English | Short | Pre-1950 | Avant-Garde,English | Short | Pre-1950
+English | Short | 1950-1990 | Action,English | Short | 1950-1990
+English | Short | 1950-1990 | Adventure,English | Short | 1950-1990
+English | Short | 1950-1990 | Comedy,English | Short | 1950-1990
+English | Short | 1950-1990 | Documentary,English | Short | 1950-1990
+English | Short | 1950-1990 | Drama,English | Short | 1950-1990
+English | Short | 1950-1990 | Fantasy,English | Short | 1950-1990
+English | Short | 1950-1990 | Horror,English | Short | 1950-1990
+English | Short | 1950-1990 | Musical,English | Short | 1950-1990
+English | Short | 1950-1990 | Science Fiction,English | Short | 1950-1990
+English | Short | 1950-1990 | Thriller,English | Short | 1950-1990
+English | Short | 1950-1990 | Avant-Garde,English | Short | 1950-1990
+English | Short | 1990-Now | Animated,English | Short | 1990-Now
+English | Short | 1990-Now | Comedy,English | Short | 1990-Now
+English | Short | 1990-Now | Documentary,English | Short | 1990-Now
+English | Short | 1990-Now | Drama,English | Short | 1990-Now
+English | Short | 1990-Now | Fantasy,English | Short | 1990-Now
+Foreign | Long | Pre-1950 | Action,Foreign | Long | Pre-1950
+Foreign | Long | Pre-1950 | Documentary,Foreign | Long | Pre-1950
+Foreign | Long | Pre-1950 | Drama,Foreign | Long | Pre-1950
+Foreign | Long | Pre-1950 | Fantasy,Foreign | Long | Pre-1950
+Foreign | Long | Pre-1950 | Thriller,Foreign | Long | Pre-1950
+Foreign | Long | 1950-1990 | Action,Foreign | Long | 1950-1990
+Foreign | Long | 1950-1990 | Adventure,Foreign | Long | 1950-1990
+Foreign | Long | 1950-1990 | Animated,Foreign | Long | 1950-1990
+Foreign | Long | 1950-1990 | Comedy,Foreign | Long | 1950-1990
+Foreign | Long | 1950-1990 | Documentary,Foreign | Long | 1950-1990
+Foreign | Long | 1950-1990 | Drama,Foreign | Long | 1950-1990
+Foreign | Long | 1950-1990 | Fantasy,Foreign | Long | 1950-1990
+Foreign | Long | 1950-1990 | Horror,Foreign | Long | 1950-1990
+Foreign | Long | 1950-1990 | Musical,Foreign | Long | 1950-1990
+Foreign | Long | 1950-1990 | Science Fiction,Foreign | Long | 1950-1990
+Foreign | Long | 1950-1990 | Thriller,Foreign | Long | 1950-1990
+Foreign | Long | 1950-1990 | Avant-Garde,Foreign | Long | 1950-1990
+Foreign | Long | 1990-Now | Action,Foreign | Long | 1990-Now
+Foreign | Long | 1990-Now | Animated,Foreign | Long | 1990-Now
+Foreign | Long | 1990-Now | Comedy,Foreign | Long | 1990-Now
+Foreign | Long | 1990-Now | Documentary,Foreign | Long | 1990-Now
+Foreign | Long | 1990-Now | Drama,Foreign | Long | 1990-Now
+Foreign | Long | 1990-Now | Fantasy,Foreign | Long | 1990-Now
+Foreign | Long | 1990-Now | Musical,Foreign | Long | 1990-Now
+Foreign | Long | 1990-Now | Science Fiction,Foreign | Long | 1990-Now
+Foreign | Long | 1990-Now | Thriller,Foreign | Long | 1990-Now
+Foreign | Short | Pre-1950 | Animated,Foreign | Short | Pre-1950
+Foreign | Short | Pre-1950 | Comedy,Foreign | Short | Pre-1950
+Foreign | Short | Pre-1950 | Documentary,Foreign | Short | Pre-1950
+Foreign | Short | Pre-1950 | Drama,Foreign | Short | Pre-1950
+Foreign | Short | Pre-1950 | Fantasy,Foreign | Short | Pre-1950
+Foreign | Short | Pre-1950 | Horror,Foreign | Short | Pre-1950
+Foreign | Short | Pre-1950 | Science Fiction,Foreign | Short | Pre-1950
+Foreign | Short | Pre-1950 | Thriller,Foreign | Short | Pre-1950
+Foreign | Short | 1950-1990 | Adventure,Foreign | Short | 1950-1990
+Foreign | Short | 1950-1990 | Animated,Foreign | Short | 1950-1990
+Foreign | Short | 1950-1990 | Comedy,Foreign | Short | 1950-1990
+Foreign | Short | 1950-1990 | Documentary,Foreign | Short | 1950-1990
+Foreign | Short | 1950-1990 | Drama,Foreign | Short | 1950-1990
+Foreign | Short | 1950-1990 | Fantasy,Foreign | Short | 1950-1990
+Foreign | Short | 1950-1990 | Horror,Foreign | Short | 1950-1990
+Foreign | Short | 1950-1990 | Musical,Foreign | Short | 1950-1990
+Foreign | Short | 1950-1990 | Science Fiction,Foreign | Short | 1950-1990
+Foreign | Short | 1950-1990 | Thriller,Foreign | Short | 1950-1990
+Foreign | Short | 1950-1990 | Avant-Garde,Foreign | Short | 1950-1990
+Foreign | Short | 1990-Now | Comedy,Foreign | Short | 1990-Now
+Foreign | Short | 1990-Now | Documentary,Foreign | Short | 1990-Now
+Foreign | Short | 1990-Now | Drama,Foreign | Short | 1990-Now
+Foreign | Short | 1990-Now | Fantasy,Foreign | Short | 1990-Now
+English | Long | Pre-1950 | Adventure | Drama,English | Long | Pre-1950 | Adventure
+English | Long | Pre-1950 | Adventure | War,English | Long | Pre-1950 | Adventure
+English | Long | Pre-1950 | Adventure | Western,English | Long | Pre-1950 | Adventure
+English | Long | Pre-1950 | Comedy | Romance,English | Long | Pre-1950 | Comedy
+English | Long | Pre-1950 | Comedy | War,English | Long | Pre-1950 | Comedy
+English | Long | Pre-1950 | Drama | Adventure,English | Long | Pre-1950 | Drama
+English | Long | Pre-1950 | Drama | Comedy,English | Long | Pre-1950 | Drama
+English | Long | Pre-1950 | Drama | Crime,English | Long | Pre-1950 | Drama
+English | Long | Pre-1950 | Drama | Drama,English | Long | Pre-1950 | Drama
+English | Long | Pre-1950 | Drama | History,English | Long | Pre-1950 | Drama
+English | Long | Pre-1950 | Drama | Mystery,English | Long | Pre-1950 | Drama
+English | Long | Pre-1950 | Drama | Political,English | Long | Pre-1950 | Drama
+English | Long | Pre-1950 | Drama | Romance,English | Long | Pre-1950 | Drama
+English | Long | Pre-1950 | Drama | War,English | Long | Pre-1950 | Drama
+English | Long | Pre-1950 | Fantasy | Drama,English | Long | Pre-1950 | Fantasy
+English | Long | Pre-1950 | Fantasy | Family,English | Long | Pre-1950 | Fantasy
+English | Long | Pre-1950 | Musical | Dance,English | Long | Pre-1950 | Musical
+English | Long | Pre-1950 | Musical | Family,English | Long | Pre-1950 | Musical
+English | Long | Pre-1950 | Thriller | Crime,English | Long | Pre-1950 | Thriller
+English | Long | Pre-1950 | Thriller | Drama,English | Long | Pre-1950 | Thriller
+English | Long | Pre-1950 | Thriller | Thriller,English | Long | Pre-1950 | Thriller
+English | Long | 1950-1990 | Action | Comedy,English | Long | 1950-1990 | Action
+English | Long | 1950-1990 | Adventure | Action,English | Long | 1950-1990 | Adventure
+English | Long | 1950-1990 | Adventure | Adventure,English | Long | 1950-1990 | Adventure
+English | Long | 1950-1990 | Adventure | Drama,English | Long | 1950-1990 | Adventure
+English | Long | 1950-1990 | Adventure | History,English | Long | 1950-1990 | Adventure
+English | Long | 1950-1990 | Adventure | Romance,English | Long | 1950-1990 | Adventure
+English | Long | 1950-1990 | Adventure | Sport,English | Long | 1950-1990 | Adventure
+English | Long | 1950-1990 | Adventure | Thriller,English | Long | 1950-1990 | Adventure
+English | Long | 1950-1990 | Adventure | War,English | Long | 1950-1990 | Adventure
+English | Long | 1950-1990 | Adventure | Western,English | Long | 1950-1990 | Adventure
+English | Long | 1950-1990 | Comedy | Comedy,English | Long | 1950-1990 | Comedy
+English | Long | 1950-1990 | Comedy | Crime,English | Long | 1950-1990 | Comedy
+English | Long | 1950-1990 | Comedy | Romance,English | Long | 1950-1990 | Comedy
+English | Long | 1950-1990 | Comedy | War,English | Long | 1950-1990 | Comedy
+English | Long | 1950-1990 | Documentary | Biography,English | Long | 1950-1990 | Documentary
+English | Long | 1950-1990 | Documentary | Documentary,English | Long | 1950-1990 | Documentary
+English | Long | 1950-1990 | Documentary | History,English | Long | 1950-1990 | Documentary
+English | Long | 1950-1990 | Drama | Avant-Garde,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Drama | Biography,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Drama | Comedy,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Drama | Crime,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Drama | Drama,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Drama | History,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Drama | Mystery,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Drama | Political,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Drama | Prison,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Drama | Religious,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Drama | Romance,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Drama | Sport,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Drama | Thriller,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Drama | War,English | Long | 1950-1990 | Drama
+English | Long | 1950-1990 | Fantasy | Adventure,English | Long | 1950-1990 | Fantasy
+English | Long | 1950-1990 | Fantasy | Drama,English | Long | 1950-1990 | Fantasy
+English | Long | 1950-1990 | Horror | Action,English | Long | 1950-1990 | Horror
+English | Long | 1950-1990 | Horror | Comedy,English | Long | 1950-1990 | Horror
+English | Long | 1950-1990 | Horror | Horror,English | Long | 1950-1990 | Horror
+English | Long | 1950-1990 | Horror | Thriller,English | Long | 1950-1990 | Horror
+English | Long | 1950-1990 | Musical | Biography,English | Long | 1950-1990 | Musical
+English | Long | 1950-1990 | Musical | Dance,English | Long | 1950-1990 | Musical
+English | Long | 1950-1990 | Musical | Drama,English | Long | 1950-1990 | Musical
+English | Long | 1950-1990 | Musical | Family,English | Long | 1950-1990 | Musical
+English | Long | 1950-1990 | Musical | Fantasy,English | Long | 1950-1990 | Musical
+English | Long | 1950-1990 | Musical | Musical,English | Long | 1950-1990 | Musical
+English | Long | 1950-1990 | Science Fiction | Action,English | Long | 1950-1990 | Science Fiction
+English | Long | 1950-1990 | Science Fiction | Adventure,English | Long | 1950-1990 | Science Fiction
+English | Long | 1950-1990 | Science Fiction | Comedy,English | Long | 1950-1990 | Science Fiction
+English | Long | 1950-1990 | Science Fiction | Crime,English | Long | 1950-1990 | Science Fiction
+English | Long | 1950-1990 | Science Fiction | Drama,English | Long | 1950-1990 | Science Fiction
+English | Long | 1950-1990 | Science Fiction | Family,English | Long | 1950-1990 | Science Fiction
+English | Long | 1950-1990 | Science Fiction | Fantasy,English | Long | 1950-1990 | Science Fiction
+English | Long | 1950-1990 | Science Fiction | Horror,English | Long | 1950-1990 | Science Fiction
+English | Long | 1950-1990 | Science Fiction | Science Fiction,English | Long | 1950-1990 | Science Fiction
+English | Long | 1950-1990 | Science Fiction | Thriller,English | Long | 1950-1990 | Science Fiction
+English | Long | 1950-1990 | Thriller | Action,English | Long | 1950-1990 | Thriller
+English | Long | 1950-1990 | Thriller | Crime,English | Long | 1950-1990 | Thriller
+English | Long | 1950-1990 | Thriller | Drama,English | Long | 1950-1990 | Thriller
+English | Long | 1950-1990 | Thriller | Horror,English | Long | 1950-1990 | Thriller
+English | Long | 1950-1990 | Thriller | Mystery,English | Long | 1950-1990 | Thriller
+English | Long | 1950-1990 | Thriller | Political,English | Long | 1950-1990 | Thriller
+English | Long | 1950-1990 | Thriller | Spy,English | Long | 1950-1990 | Thriller
+English | Long | 1950-1990 | Thriller | Thriller,English | Long | 1950-1990 | Thriller
+English | Long | 1990-Now | Action | Adventure,English | Long | 1990-Now | Action
+English | Long | 1990-Now | Action | Crime,English | Long | 1990-Now | Action
+English | Long | 1990-Now | Action | Drama,English | Long | 1990-Now | Action
+English | Long | 1990-Now | Action | History,English | Long | 1990-Now | Action
+English | Long | 1990-Now | Action | Science Fiction,English | Long | 1990-Now | Action
+English | Long | 1990-Now | Adventure | Drama,English | Long | 1990-Now | Adventure
+English | Long | 1990-Now | Adventure | Western,English | Long | 1990-Now | Adventure
+English | Long | 1990-Now | Comedy | Crime,English | Long | 1990-Now | Comedy
+English | Long | 1990-Now | Documentary | Biography,English | Long | 1990-Now | Documentary
+English | Long | 1990-Now | Documentary | Drama,English | Long | 1990-Now | Documentary
+English | Long | 1990-Now | Drama | Action,English | Long | 1990-Now | Drama
+English | Long | 1990-Now | Drama | Comedy,English | Long | 1990-Now | Drama
+English | Long | 1990-Now | Drama | Crime,English | Long | 1990-Now | Drama
+English | Long | 1990-Now | Drama | Drama,English | Long | 1990-Now | Drama
+English | Long | 1990-Now | Drama | History,English | Long | 1990-Now | Drama
+English | Long | 1990-Now | Drama | Horror,English | Long | 1990-Now | Drama
+English | Long | 1990-Now | Drama | Musical,English | Long | 1990-Now | Drama
+English | Long | 1990-Now | Drama | Mystery,English | Long | 1990-Now | Drama
+English | Long | 1990-Now | Drama | Prison,English | Long | 1990-Now | Drama
+English | Long | 1990-Now | Drama | Romance,English | Long | 1990-Now | Drama
+English | Long | 1990-Now | Drama | Science Fiction,English | Long | 1990-Now | Drama
+English | Long | 1990-Now | Drama | War,English | Long | 1990-Now | Drama
+English | Long | 1990-Now | Musical | Drama,English | Long | 1990-Now | Musical
+English | Long | 1990-Now | Science Fiction | Action,English | Long | 1990-Now | Science Fiction
+English | Long | 1990-Now | Science Fiction | Adventure,English | Long | 1990-Now | Science Fiction
+English | Long | 1990-Now | Science Fiction | Drama,English | Long | 1990-Now | Science Fiction
+English | Long | 1990-Now | Thriller | Action,English | Long | 1990-Now | Thriller
+English | Long | 1990-Now | Thriller | Crime,English | Long | 1990-Now | Thriller
+English | Long | 1990-Now | Thriller | Drama,English | Long | 1990-Now | Thriller
+English | Long | 1990-Now | Thriller | Mystery,English | Long | 1990-Now | Thriller
+English | Short | Pre-1950 | Adventure | Action,English | Short | Pre-1950 | Adventure
+English | Short | Pre-1950 | Adventure | Adventure,English | Short | Pre-1950 | Adventure
+English | Short | Pre-1950 | Adventure | War,English | Short | Pre-1950 | Adventure
+English | Short | Pre-1950 | Adventure | Western,English | Short | Pre-1950 | Adventure
+English | Short | Pre-1950 | Animated | Family,English | Short | Pre-1950 | Animated
+English | Short | Pre-1950 | Comedy | Adventure,English | Short | Pre-1950 | Comedy
+English | Short | Pre-1950 | Comedy | Comedy,English | Short | Pre-1950 | Comedy
+English | Short | Pre-1950 | Comedy | Family,English | Short | Pre-1950 | Comedy
+English | Short | Pre-1950 | Comedy | Romance,English | Short | Pre-1950 | Comedy
+English | Short | Pre-1950 | Comedy | War,English | Short | Pre-1950 | Comedy
+English | Short | Pre-1950 | Documentary | Documentary,English | Short | Pre-1950 | Documentary
+English | Short | Pre-1950 | Documentary | Drama,English | Short | Pre-1950 | Documentary
+English | Short | Pre-1950 | Documentary | Short,English | Short | Pre-1950 | Documentary
+English | Short | Pre-1950 | Drama | Adventure,English | Short | Pre-1950 | Drama
+English | Short | Pre-1950 | Drama | Biography,English | Short | Pre-1950 | Drama
+English | Short | Pre-1950 | Drama | Comedy,English | Short | Pre-1950 | Drama
+English | Short | Pre-1950 | Drama | Crime,English | Short | Pre-1950 | Drama
+English | Short | Pre-1950 | Drama | Drama,English | Short | Pre-1950 | Drama
+English | Short | Pre-1950 | Drama | Mystery,English | Short | Pre-1950 | Drama
+English | Short | Pre-1950 | Drama | Political,English | Short | Pre-1950 | Drama
+English | Short | Pre-1950 | Drama | Religious,English | Short | Pre-1950 | Drama
+English | Short | Pre-1950 | Drama | Romance,English | Short | Pre-1950 | Drama
+English | Short | Pre-1950 | Drama | War,English | Short | Pre-1950 | Drama
+English | Short | Pre-1950 | Fantasy | Adventure,English | Short | Pre-1950 | Fantasy
+English | Short | Pre-1950 | Fantasy | Comedy,English | Short | Pre-1950 | Fantasy
+English | Short | Pre-1950 | Fantasy | Family,English | Short | Pre-1950 | Fantasy
+English | Short | Pre-1950 | Fantasy | Fantasy,English | Short | Pre-1950 | Fantasy
+English | Short | Pre-1950 | Fantasy | Romance,English | Short | Pre-1950 | Fantasy
+English | Short | Pre-1950 | Horror | Drama,English | Short | Pre-1950 | Horror
+English | Short | Pre-1950 | Horror | Science Fiction,English | Short | Pre-1950 | Horror
+English | Short | Pre-1950 | Musical | Comedy,English | Short | Pre-1950 | Musical
+English | Short | Pre-1950 | Musical | Dance,English | Short | Pre-1950 | Musical
+English | Short | Pre-1950 | Musical | Family,English | Short | Pre-1950 | Musical
+English | Short | Pre-1950 | Musical | Fantasy,English | Short | Pre-1950 | Musical
+English | Short | Pre-1950 | Musical | Musical,English | Short | Pre-1950 | Musical
+English | Short | Pre-1950 | Thriller | Crime,English | Short | Pre-1950 | Thriller
+English | Short | Pre-1950 | Thriller | Horror,English | Short | Pre-1950 | Thriller
+English | Short | Pre-1950 | Thriller | Mystery,English | Short | Pre-1950 | Thriller
+English | Short | Pre-1950 | Thriller | Spy,English | Short | Pre-1950 | Thriller
+English | Short | Pre-1950 | Thriller | Thriller,English | Short | Pre-1950 | Thriller
+English | Short | Pre-1950 | Avant-Garde | Short,English | Short | Pre-1950 | Avant-Garde
+English | Short | 1950-1990 | Action | Action,English | Short | 1950-1990 | Action
+English | Short | 1950-1990 | Adventure | Comedy,English | Short | 1950-1990 | Adventure
+English | Short | 1950-1990 | Adventure | Drama,English | Short | 1950-1990 | Adventure
+English | Short | 1950-1990 | Adventure | Western,English | Short | 1950-1990 | Adventure
+English | Short | 1950-1990 | Comedy | Comedy,English | Short | 1950-1990 | Comedy
+English | Short | 1950-1990 | Comedy | Crime,English | Short | 1950-1990 | Comedy
+English | Short | 1950-1990 | Comedy | Drama,English | Short | 1950-1990 | Comedy
+English | Short | 1950-1990 | Comedy | Family,English | Short | 1950-1990 | Comedy
+English | Short | 1950-1990 | Comedy | History,English | Short | 1950-1990 | Comedy
+English | Short | 1950-1990 | Comedy | Musical,English | Short | 1950-1990 | Comedy
+English | Short | 1950-1990 | Comedy | Religious,English | Short | 1950-1990 | Comedy
+English | Short | 1950-1990 | Comedy | Romance,English | Short | 1950-1990 | Comedy
+English | Short | 1950-1990 | Comedy | War,English | Short | 1950-1990 | Comedy
+English | Short | 1950-1990 | Documentary | Comedy,English | Short | 1950-1990 | Documentary
+English | Short | 1950-1990 | Documentary | Documentary,English | Short | 1950-1990 | Documentary
+English | Short | 1950-1990 | Documentary | Drama,English | Short | 1950-1990 | Documentary
+English | Short | 1950-1990 | Documentary | Musical,English | Short | 1950-1990 | Documentary
+English | Short | 1950-1990 | Drama | Action,English | Short | 1950-1990 | Drama
+English | Short | 1950-1990 | Drama | Adventure,English | Short | 1950-1990 | Drama
+English | Short | 1950-1990 | Drama | Comedy,English | Short | 1950-1990 | Drama
+English | Short | 1950-1990 | Drama | Crime,English | Short | 1950-1990 | Drama
+English | Short | 1950-1990 | Drama | Drama,English | Short | 1950-1990 | Drama
+English | Short | 1950-1990 | Drama | History,English | Short | 1950-1990 | Drama
+English | Short | 1950-1990 | Drama | Mystery,English | Short | 1950-1990 | Drama
+English | Short | 1950-1990 | Drama | Romance,English | Short | 1950-1990 | Drama
+English | Short | 1950-1990 | Drama | Short,English | Short | 1950-1990 | Drama
+English | Short | 1950-1990 | Drama | Sport,English | Short | 1950-1990 | Drama
+English | Short | 1950-1990 | Drama | Spy,English | Short | 1950-1990 | Drama
+English | Short | 1950-1990 | Drama | Thriller,English | Short | 1950-1990 | Drama
+English | Short | 1950-1990 | Drama | War,English | Short | 1950-1990 | Drama
+English | Short | 1950-1990 | Fantasy | Comedy,English | Short | 1950-1990 | Fantasy
+English | Short | 1950-1990 | Horror | Drama,English | Short | 1950-1990 | Horror
+English | Short | 1950-1990 | Horror | Fantasy,English | Short | 1950-1990 | Horror
+English | Short | 1950-1990 | Horror | Horror,English | Short | 1950-1990 | Horror
+English | Short | 1950-1990 | Horror | Mystery,English | Short | 1950-1990 | Horror
+English | Short | 1950-1990 | Horror | Thriller,English | Short | 1950-1990 | Horror
+English | Short | 1950-1990 | Musical | Comedy,English | Short | 1950-1990 | Musical
+English | Short | 1950-1990 | Musical | Dance,English | Short | 1950-1990 | Musical
+English | Short | 1950-1990 | Musical | Horror,English | Short | 1950-1990 | Musical
+English | Short | 1950-1990 | Musical | Musical,English | Short | 1950-1990 | Musical
+English | Short | 1950-1990 | Science Fiction | Action,English | Short | 1950-1990 | Science Fiction
+English | Short | 1950-1990 | Science Fiction | Crime,English | Short | 1950-1990 | Science Fiction
+English | Short | 1950-1990 | Science Fiction | Horror,English | Short | 1950-1990 | Science Fiction
+English | Short | 1950-1990 | Science Fiction | Science Fiction,English | Short | 1950-1990 | Science Fiction
+English | Short | 1950-1990 | Science Fiction | Thriller,English | Short | 1950-1990 | Science Fiction
+English | Short | 1950-1990 | Thriller | Crime,English | Short | 1950-1990 | Thriller
+English | Short | 1950-1990 | Thriller | Drama,English | Short | 1950-1990 | Thriller
+English | Short | 1950-1990 | Thriller | Horror,English | Short | 1950-1990 | Thriller
+English | Short | 1950-1990 | Thriller | Thriller,English | Short | 1950-1990 | Thriller
+English | Short | 1950-1990 | Avant-Garde | Short,English | Short | 1950-1990 | Avant-Garde
+English | Short | 1990-Now | Animated | Adventure,English | Short | 1990-Now | Animated
+English | Short | 1990-Now | Animated | Short,English | Short | 1990-Now | Animated
+English | Short | 1990-Now | Comedy | Comedy,English | Short | 1990-Now | Comedy
+English | Short | 1990-Now | Documentary | Documentary,English | Short | 1990-Now | Documentary
+English | Short | 1990-Now | Documentary | Drama,English | Short | 1990-Now | Documentary
+English | Short | 1990-Now | Drama | Comedy,English | Short | 1990-Now | Drama
+English | Short | 1990-Now | Drama | Crime,English | Short | 1990-Now | Drama
+English | Short | 1990-Now | Drama | Drama,English | Short | 1990-Now | Drama
+English | Short | 1990-Now | Drama | History,English | Short | 1990-Now | Drama
+English | Short | 1990-Now | Drama | Romance,English | Short | 1990-Now | Drama
+English | Short | 1990-Now | Fantasy | Comedy,English | Short | 1990-Now | Fantasy
+English | Short | 1990-Now | Fantasy | Fantasy,English | Short | 1990-Now | Fantasy
+English | Short | 1990-Now | Fantasy | Romance,English | Short | 1990-Now | Fantasy
+Foreign | Long | Pre-1950 | Action | History,Foreign | Long | Pre-1950 | Action
+Foreign | Long | Pre-1950 | Documentary | History,Foreign | Long | Pre-1950 | Documentary
+Foreign | Long | Pre-1950 | Documentary | Sport,Foreign | Long | Pre-1950 | Documentary
+Foreign | Long | Pre-1950 | Drama | Comedy,Foreign | Long | Pre-1950 | Drama
+Foreign | Long | Pre-1950 | Drama | Crime,Foreign | Long | Pre-1950 | Drama
+Foreign | Long | Pre-1950 | Drama | Drama,Foreign | Long | Pre-1950 | Drama
+Foreign | Long | Pre-1950 | Drama | History,Foreign | Long | Pre-1950 | Drama
+Foreign | Long | Pre-1950 | Drama | Prison,Foreign | Long | Pre-1950 | Drama
+Foreign | Long | Pre-1950 | Drama | Romance,Foreign | Long | Pre-1950 | Drama
+Foreign | Long | Pre-1950 | Drama | War,Foreign | Long | Pre-1950 | Drama
+Foreign | Long | Pre-1950 | Fantasy | Drama,Foreign | Long | Pre-1950 | Fantasy
+Foreign | Long | Pre-1950 | Fantasy | Science Fiction,Foreign | Long | Pre-1950 | Fantasy
+Foreign | Long | Pre-1950 | Thriller | Crime,Foreign | Long | Pre-1950 | Thriller
+Foreign | Long | Pre-1950 | Thriller | Mystery,Foreign | Long | Pre-1950 | Thriller
+Foreign | Long | 1950-1990 | Action | Adventure,Foreign | Long | 1950-1990 | Action
+Foreign | Long | 1950-1990 | Action | Drama,Foreign | Long | 1950-1990 | Action
+Foreign | Long | 1950-1990 | Adventure | Action,Foreign | Long | 1950-1990 | Adventure
+Foreign | Long | 1950-1990 | Adventure | Drama,Foreign | Long | 1950-1990 | Adventure
+Foreign | Long | 1950-1990 | Adventure | Western,Foreign | Long | 1950-1990 | Adventure
+Foreign | Long | 1950-1990 | Animated | Science Fiction,Foreign | Long | 1950-1990 | Animated
+Foreign | Long | 1950-1990 | Comedy | Comedy,Foreign | Long | 1950-1990 | Comedy
+Foreign | Long | 1950-1990 | Comedy | Drama,Foreign | Long | 1950-1990 | Comedy
+Foreign | Long | 1950-1990 | Comedy | Romance,Foreign | Long | 1950-1990 | Comedy
+Foreign | Long | 1950-1990 | Documentary | Documentary,Foreign | Long | 1950-1990 | Documentary
+Foreign | Long | 1950-1990 | Documentary | Political,Foreign | Long | 1950-1990 | Documentary
+Foreign | Long | 1950-1990 | Documentary | War,Foreign | Long | 1950-1990 | Documentary
+Foreign | Long | 1950-1990 | Drama | Action,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Adult,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Adventure,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Avant-Garde,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Biography,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Comedy,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Crime,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Drama,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Fantasy,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | History,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Horror,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Musical,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Mystery,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Political,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Religious,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | Romance,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Drama | War,Foreign | Long | 1950-1990 | Drama
+Foreign | Long | 1950-1990 | Fantasy | Adventure,Foreign | Long | 1950-1990 | Fantasy
+Foreign | Long | 1950-1990 | Fantasy | Drama,Foreign | Long | 1950-1990 | Fantasy
+Foreign | Long | 1950-1990 | Horror | Drama,Foreign | Long | 1950-1990 | Horror
+Foreign | Long | 1950-1990 | Horror | Fantasy,Foreign | Long | 1950-1990 | Horror
+Foreign | Long | 1950-1990 | Horror | Thriller,Foreign | Long | 1950-1990 | Horror
+Foreign | Long | 1950-1990 | Musical | Dance,Foreign | Long | 1950-1990 | Musical
+Foreign | Long | 1950-1990 | Science Fiction | Drama,Foreign | Long | 1950-1990 | Science Fiction
+Foreign | Long | 1950-1990 | Science Fiction | Mystery,Foreign | Long | 1950-1990 | Science Fiction
+Foreign | Long | 1950-1990 | Thriller | Adventure,Foreign | Long | 1950-1990 | Thriller
+Foreign | Long | 1950-1990 | Thriller | Crime,Foreign | Long | 1950-1990 | Thriller
+Foreign | Long | 1950-1990 | Thriller | Horror,Foreign | Long | 1950-1990 | Thriller
+Foreign | Long | 1950-1990 | Thriller | Mystery,Foreign | Long | 1950-1990 | Thriller
+Foreign | Long | 1950-1990 | Thriller | Political,Foreign | Long | 1950-1990 | Thriller
+Foreign | Long | 1950-1990 | Avant-Garde | Avant-Garde,Foreign | Long | 1950-1990 | Avant-Garde
+Foreign | Long | 1990-Now | Action | Comedy,Foreign | Long | 1990-Now | Action
+Foreign | Long | 1990-Now | Action | Mystery,Foreign | Long | 1990-Now | Action
+Foreign | Long | 1990-Now | Animated | Adventure,Foreign | Long | 1990-Now | Animated
+Foreign | Long | 1990-Now | Comedy | Romance,Foreign | Long | 1990-Now | Comedy
+Foreign | Long | 1990-Now | Documentary | Biography,Foreign | Long | 1990-Now | Documentary
+Foreign | Long | 1990-Now | Documentary | Documentary,Foreign | Long | 1990-Now | Documentary
+Foreign | Long | 1990-Now | Drama | Adventure,Foreign | Long | 1990-Now | Drama
+Foreign | Long | 1990-Now | Drama | Biography,Foreign | Long | 1990-Now | Drama
+Foreign | Long | 1990-Now | Drama | Comedy,Foreign | Long | 1990-Now | Drama
+Foreign | Long | 1990-Now | Drama | Crime,Foreign | Long | 1990-Now | Drama
+Foreign | Long | 1990-Now | Drama | Documentary,Foreign | Long | 1990-Now | Drama
+Foreign | Long | 1990-Now | Drama | Drama,Foreign | Long | 1990-Now | Drama
+Foreign | Long | 1990-Now | Drama | Fantasy,Foreign | Long | 1990-Now | Drama
+Foreign | Long | 1990-Now | Drama | History,Foreign | Long | 1990-Now | Drama
+Foreign | Long | 1990-Now | Drama | Horror,Foreign | Long | 1990-Now | Drama
+Foreign | Long | 1990-Now | Drama | Romance,Foreign | Long | 1990-Now | Drama
+Foreign | Long | 1990-Now | Drama | Science Fiction,Foreign | Long | 1990-Now | Drama
+Foreign | Long | 1990-Now | Drama | War,Foreign | Long | 1990-Now | Drama
+Foreign | Long | 1990-Now | Fantasy | Adventure,Foreign | Long | 1990-Now | Fantasy
+Foreign | Long | 1990-Now | Musical | Drama,Foreign | Long | 1990-Now | Musical
+Foreign | Long | 1990-Now | Science Fiction | Drama,Foreign | Long | 1990-Now | Science Fiction
+Foreign | Long | 1990-Now | Thriller | Crime,Foreign | Long | 1990-Now | Thriller
+Foreign | Long | 1990-Now | Thriller | Drama,Foreign | Long | 1990-Now | Thriller
+Foreign | Long | 1990-Now | Thriller | Horror,Foreign | Long | 1990-Now | Thriller
+Foreign | Short | Pre-1950 | Animated | Adventure,Foreign | Short | Pre-1950 | Animated
+Foreign | Short | Pre-1950 | Comedy | Comedy,Foreign | Short | Pre-1950 | Comedy
+Foreign | Short | Pre-1950 | Comedy | Musical,Foreign | Short | Pre-1950 | Comedy
+Foreign | Short | Pre-1950 | Documentary | Avant-Garde,Foreign | Short | Pre-1950 | Documentary
+Foreign | Short | Pre-1950 | Documentary | Documentary,Foreign | Short | Pre-1950 | Documentary
+Foreign | Short | Pre-1950 | Documentary | Horror,Foreign | Short | Pre-1950 | Documentary
+Foreign | Short | Pre-1950 | Documentary | Short,Foreign | Short | Pre-1950 | Documentary
+Foreign | Short | Pre-1950 | Drama | Avant-Garde,Foreign | Short | Pre-1950 | Drama
+Foreign | Short | Pre-1950 | Drama | Comedy,Foreign | Short | Pre-1950 | Drama
+Foreign | Short | Pre-1950 | Drama | Crime,Foreign | Short | Pre-1950 | Drama
+Foreign | Short | Pre-1950 | Drama | Drama,Foreign | Short | Pre-1950 | Drama
+Foreign | Short | Pre-1950 | Drama | History,Foreign | Short | Pre-1950 | Drama
+Foreign | Short | Pre-1950 | Drama | Religious,Foreign | Short | Pre-1950 | Drama
+Foreign | Short | Pre-1950 | Drama | Romance,Foreign | Short | Pre-1950 | Drama
+Foreign | Short | Pre-1950 | Drama | Romantic,Foreign | Short | Pre-1950 | Drama
+Foreign | Short | Pre-1950 | Drama | Short,Foreign | Short | Pre-1950 | Drama
+Foreign | Short | Pre-1950 | Drama | War,Foreign | Short | Pre-1950 | Drama
+Foreign | Short | Pre-1950 | Fantasy | Drama,Foreign | Short | Pre-1950 | Fantasy
+Foreign | Short | Pre-1950 | Fantasy | Fantasy,Foreign | Short | Pre-1950 | Fantasy
+Foreign | Short | Pre-1950 | Horror | Fantasy,Foreign | Short | Pre-1950 | Horror
+Foreign | Short | Pre-1950 | Horror | Horror,Foreign | Short | Pre-1950 | Horror
+Foreign | Short | Pre-1950 | Science Fiction | Short,Foreign | Short | Pre-1950 | Science Fiction
+Foreign | Short | Pre-1950 | Thriller | Crime,Foreign | Short | Pre-1950 | Thriller
+Foreign | Short | Pre-1950 | Thriller | Drama,Foreign | Short | Pre-1950 | Thriller
+Foreign | Short | Pre-1950 | Thriller | Spy,Foreign | Short | Pre-1950 | Thriller
+Foreign | Short | 1950-1990 | Adventure | Romance,Foreign | Short | 1950-1990 | Adventure
+Foreign | Short | 1950-1990 | Animated | Short,Foreign | Short | 1950-1990 | Animated
+Foreign | Short | 1950-1990 | Animated | War,Foreign | Short | 1950-1990 | Animated
+Foreign | Short | 1950-1990 | Comedy | Comedy,Foreign | Short | 1950-1990 | Comedy
+Foreign | Short | 1950-1990 | Comedy | Drama,Foreign | Short | 1950-1990 | Comedy
+Foreign | Short | 1950-1990 | Documentary | Avant-Garde,Foreign | Short | 1950-1990 | Documentary
+Foreign | Short | 1950-1990 | Documentary | Documentary,Foreign | Short | 1950-1990 | Documentary
+Foreign | Short | 1950-1990 | Documentary | Short,Foreign | Short | 1950-1990 | Documentary
+Foreign | Short | 1950-1990 | Documentary | War,Foreign | Short | 1950-1990 | Documentary
+Foreign | Short | 1950-1990 | Drama | Action,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | Biography,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | Comedy,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | Crime,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | Drama,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | Fantasy,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | History,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | Mystery,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | Political,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | Prison,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | Religious,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | Romance,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | Short,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | Thriller,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | War,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Drama | Western,Foreign | Short | 1950-1990 | Drama
+Foreign | Short | 1950-1990 | Fantasy | Drama,Foreign | Short | 1950-1990 | Fantasy
+Foreign | Short | 1950-1990 | Fantasy | Family,Foreign | Short | 1950-1990 | Fantasy
+Foreign | Short | 1950-1990 | Horror | Drama,Foreign | Short | 1950-1990 | Horror
+Foreign | Short | 1950-1990 | Horror | Horror,Foreign | Short | 1950-1990 | Horror
+Foreign | Short | 1950-1990 | Horror | Science Fiction,Foreign | Short | 1950-1990 | Horror
+Foreign | Short | 1950-1990 | Musical | Drama,Foreign | Short | 1950-1990 | Musical
+Foreign | Short | 1950-1990 | Musical | Musical,Foreign | Short | 1950-1990 | Musical
+Foreign | Short | 1950-1990 | Science Fiction | Drama,Foreign | Short | 1950-1990 | Science Fiction
+Foreign | Short | 1950-1990 | Science Fiction | Mystery,Foreign | Short | 1950-1990 | Science Fiction
+Foreign | Short | 1950-1990 | Thriller | Crime,Foreign | Short | 1950-1990 | Thriller
+Foreign | Short | 1950-1990 | Thriller | Drama,Foreign | Short | 1950-1990 | Thriller
+Foreign | Short | 1950-1990 | Thriller | Horror,Foreign | Short | 1950-1990 | Thriller
+Foreign | Short | 1950-1990 | Avant-Garde | Avant-Garde,Foreign | Short | 1950-1990 | Avant-Garde
+Foreign | Short | 1950-1990 | Avant-Garde | Documentary,Foreign | Short | 1950-1990 | Avant-Garde
+Foreign | Short | 1950-1990 | Avant-Garde | History,Foreign | Short | 1950-1990 | Avant-Garde
+Foreign | Short | 1990-Now | Comedy | Comedy,Foreign | Short | 1990-Now | Comedy
+Foreign | Short | 1990-Now | Documentary | Documentary,Foreign | Short | 1990-Now | Documentary
+Foreign | Short | 1990-Now | Documentary | Drama,Foreign | Short | 1990-Now | Documentary
+Foreign | Short | 1990-Now | Documentary | Science Fiction,Foreign | Short | 1990-Now | Documentary
+Foreign | Short | 1990-Now | Drama | Comedy,Foreign | Short | 1990-Now | Drama
+Foreign | Short | 1990-Now | Drama | Crime,Foreign | Short | 1990-Now | Drama
+Foreign | Short | 1990-Now | Drama | Drama,Foreign | Short | 1990-Now | Drama
+Foreign | Short | 1990-Now | Drama | Mystery,Foreign | Short | 1990-Now | Drama
+Foreign | Short | 1990-Now | Drama | Romance,Foreign | Short | 1990-Now | Drama
+Foreign | Short | 1990-Now | Fantasy | Drama,Foreign | Short | 1990-Now | Fantasy
+"Treasure of the Sierra Madre, The",English | Long | Pre-1950 | Adventure | Drama
+Fort Apache,English | Long | Pre-1950 | Adventure | War
+Duel in the Sun,English | Long | Pre-1950 | Adventure | Western
+Red River,English | Long | Pre-1950 | Adventure | Western
+It Happened One Night,English | Long | Pre-1950 | Comedy | Romance
+Ninotchka,English | Long | Pre-1950 | Comedy | Romance
+"Philadelphia Story, The",English | Long | Pre-1950 | Comedy | Romance
+"Great Dictator, The",English | Long | Pre-1950 | Comedy | War
+Only Angels Have Wings,English | Long | Pre-1950 | Drama | Adventure
+Monsieur Verdoux,English | Long | Pre-1950 | Drama | Comedy
+Odd Man Out,English | Long | Pre-1950 | Drama | Crime
+White Heat,English | Long | Pre-1950 | Drama | Crime
+All About Eve,English | Long | Pre-1950 | Drama | Drama
+"Canterbury Tale, A",English | Long | Pre-1950 | Drama | Drama
+Foolish Wives,English | Long | Pre-1950 | Drama | Drama
+"Grapes of Wrath, The",English | Long | Pre-1950 | Drama | Drama
+Greed,English | Long | Pre-1950 | Drama | Drama
+How Green Was My Valley,English | Long | Pre-1950 | Drama | Drama
+Mildred Pierce,English | Long | Pre-1950 | Drama | Drama
+Seventh Heaven,English | Long | Pre-1950 | Drama | Drama
+Sunrise,English | Long | Pre-1950 | Drama | Drama
+Sunset Blvd.,English | Long | Pre-1950 | Drama | Drama
+Gone with the Wind,English | Long | Pre-1950 | Drama | History
+Intolerance,English | Long | Pre-1950 | Drama | History
+"Scarlet Empress, The",English | Long | Pre-1950 | Drama | History
+"Big Sleep, The",English | Long | Pre-1950 | Drama | Mystery
+Citizen Kane,English | Long | Pre-1950 | Drama | Mystery
+Double Indemnity,English | Long | Pre-1950 | Drama | Mystery
+Rebecca,English | Long | Pre-1950 | Drama | Mystery
+Mr. Smith Goes to Washington,English | Long | Pre-1950 | Drama | Political
+Great Expectations,English | Long | Pre-1950 | Drama | Romance
+"Wedding March, The",English | Long | Pre-1950 | Drama | Romance
+All Quiet on the Western Front,English | Long | Pre-1950 | Drama | War
+"Best Years of Our Lives, The",English | Long | Pre-1950 | Drama | War
+"Birth of a Nation, The",English | Long | Pre-1950 | Drama | War
+Henry V,English | Long | Pre-1950 | Drama | War
+"Life and Death of Colonel Blimp, The",English | Long | Pre-1950 | Drama | War
+They Were Expendable,English | Long | Pre-1950 | Drama | War
+It's a Wonderful Life,English | Long | Pre-1950 | Fantasy | Drama
+Fantasia,English | Long | Pre-1950 | Fantasy | Family
+"Thief of Bagdad, The",English | Long | Pre-1950 | Fantasy | Family
+"Red Shoes, The",English | Long | Pre-1950 | Musical | Dance
+Meet Me in St. Louis,English | Long | Pre-1950 | Musical | Family
+"Asphalt Jungle, The",English | Long | Pre-1950 | Thriller | Crime
+Gilda,English | Long | Pre-1950 | Thriller | Drama
+Shadow of a Doubt,English | Long | Pre-1950 | Thriller | Thriller
+"Blues Brothers, The",English | Long | 1950-1990 | Action | Comedy
+Raiders of the Lost Ark,English | Long | 1950-1990 | Adventure | Action
+"Man Who Would Be King, The",English | Long | 1950-1990 | Adventure | Adventure
+Heaven's Gate,English | Long | 1950-1990 | Adventure | Drama
+McCabe & Mrs. Miller,English | Long | 1950-1990 | Adventure | Drama
+"Outlaw Josey Wales, The",English | Long | 1950-1990 | Adventure | Drama
+Shane,English | Long | 1950-1990 | Adventure | Drama
+Spartacus,English | Long | 1950-1990 | Adventure | History
+"African Queen, The",English | Long | 1950-1990 | Adventure | Romance
+"Misfits, The",English | Long | 1950-1990 | Adventure | Romance
+"Lusty Men, The",English | Long | 1950-1990 | Adventure | Sport
+Deliverance,English | Long | 1950-1990 | Adventure | Thriller
+"Great Escape, The",English | Long | 1950-1990 | Adventure | War
+Butch Cassidy and the Sundance Kid,English | Long | 1950-1990 | Adventure | Western
+El Dorado,English | Long | 1950-1990 | Adventure | Western
+Johnny Guitar,English | Long | 1950-1990 | Adventure | Western
+"Man Who Shot Liberty Valance, The",English | Long | 1950-1990 | Adventure | Western
+Pat Garrett and Billy the Kid,English | Long | 1950-1990 | Adventure | Western
+Rio Bravo,English | Long | 1950-1990 | Adventure | Western
+"Searchers, The",English | Long | 1950-1990 | Adventure | Western
+"Wild Bunch, The",English | Long | 1950-1990 | Adventure | Western
+Broadcast News,English | Long | 1950-1990 | Comedy | Comedy
+Down by Law,English | Long | 1950-1990 | Comedy | Comedy
+National Lampoon's Animal House,English | Long | 1950-1990 | Comedy | Comedy
+"Nutty Professor, The",English | Long | 1950-1990 | Comedy | Comedy
+Roman Holiday,English | Long | 1950-1990 | Comedy | Comedy
+Some Like it Hot,English | Long | 1950-1990 | Comedy | Crime
+Tootsie,English | Long | 1950-1990 | Comedy | Romance
+M*A*S*H,English | Long | 1950-1990 | Comedy | War
+Sherman's March,English | Long | 1950-1990 | Documentary | Biography
+"Diaries, Notes and Sketches",English | Long | 1950-1990 | Documentary | Documentary
+Portrait of Jason,English | Long | 1950-1990 | Documentary | Documentary
+Hôtel Terminus,English | Long | 1950-1990 | Documentary | History
+Chelsea Girls,English | Long | 1950-1990 | Drama | Avant-Garde
+"Elephant Man, The",English | Long | 1950-1990 | Drama | Biography
+"Right Stuff, The",English | Long | 1950-1990 | Drama | Biography
+American Graffiti,English | Long | 1950-1990 | Drama | Comedy
+"Apartment, The",English | Long | 1950-1990 | Drama | Comedy
+Being There,English | Long | 1950-1990 | Drama | Comedy
+Do the Right Thing,English | Long | 1950-1990 | Drama | Comedy
+Hannah and Her Sisters,English | Long | 1950-1990 | Drama | Comedy
+"King of Comedy, The",English | Long | 1950-1990 | Drama | Comedy
+Limelight,English | Long | 1950-1990 | Drama | Comedy
+Local Hero,English | Long | 1950-1990 | Drama | Comedy
+Withnail & I,English | Long | 1950-1990 | Drama | Comedy
+Bonnie and Clyde,English | Long | 1950-1990 | Drama | Crime
+Dog Day Afternoon,English | Long | 1950-1990 | Drama | Crime
+Get Carter,English | Long | 1950-1990 | Drama | Crime
+"Godfather Part II, The",English | Long | 1950-1990 | Drama | Crime
+"Godfather, The",English | Long | 1950-1990 | Drama | Crime
+"Killing of a Chinese Bookie, The",English | Long | 1950-1990 | Drama | Crime
+"Long Goodbye, The",English | Long | 1950-1990 | Drama | Crime
+Mean Streets,English | Long | 1950-1990 | Drama | Crime
+Scarface,English | Long | 1950-1990 | Drama | Crime
+Taxi Driver,English | Long | 1950-1990 | Drama | Crime
+Wanda,English | Long | 1950-1990 | Drama | Crime
+3 Women,English | Long | 1950-1990 | Drama | Drama
+Ace in the Hole,English | Long | 1950-1990 | Drama | Drama
+Anatomy of a Murder,English | Long | 1950-1990 | Drama | Drama
+"Bad and the Beautiful, The",English | Long | 1950-1990 | Drama | Drama
+Bad Timing,English | Long | 1950-1990 | Drama | Drama
+Barry Lyndon,English | Long | 1950-1990 | Drama | Drama
+Breakfast at Tiffany's,English | Long | 1950-1990 | Drama | Drama
+"Cook, the Thief, His Wife & Her Lover, The",English | Long | 1950-1990 | Drama | Drama
+East of Eden,English | Long | 1950-1990 | Drama | Drama
+Faces,English | Long | 1950-1990 | Drama | Drama
+"Graduate, The",English | Long | 1950-1990 | Drama | Drama
+Hatari!,English | Long | 1950-1990 | Drama | Drama
+Husbands,English | Long | 1950-1990 | Drama | Drama
+If….,English | Long | 1950-1990 | Drama | Drama
+Kes,English | Long | 1950-1990 | Drama | Drama
+"Last Detail, The",English | Long | 1950-1990 | Drama | Drama
+"Last Picture Show, The",English | Long | 1950-1990 | Drama | Drama
+Lolita,English | Long | 1950-1990 | Drama | Drama
+Love Streams,English | Long | 1950-1990 | Drama | Drama
+Midnight Cowboy,English | Long | 1950-1990 | Drama | Drama
+Nashville,English | Long | 1950-1990 | Drama | Drama
+Network,English | Long | 1950-1990 | Drama | Drama
+On the Waterfront,English | Long | 1950-1990 | Drama | Drama
+One Flew Over the Cuckoo's Nest,English | Long | 1950-1990 | Drama | Drama
+Opening Night,English | Long | 1950-1990 | Drama | Drama
+"Paris, Texas",English | Long | 1950-1990 | Drama | Drama
+Performance,English | Long | 1950-1990 | Drama | Drama
+"Quiet Man, The",English | Long | 1950-1990 | Drama | Drama
+Rebel Without a Cause,English | Long | 1950-1990 | Drama | Drama
+Saturday Night Fever,English | Long | 1950-1990 | Drama | Drama
+Scarecrow,English | Long | 1950-1990 | Drama | Drama
+"Servant, The",English | Long | 1950-1990 | Drama | Drama
+Some Came Running,English | Long | 1950-1990 | Drama | Drama
+Splendor in the Grass,English | Long | 1950-1990 | Drama | Drama
+"Streetcar Named Desire, A",English | Long | 1950-1990 | Drama | Drama
+To Kill a Mockingbird,English | Long | 1950-1990 | Drama | Drama
+Who's Afraid of Virginia Woolf?,English | Long | 1950-1990 | Drama | Drama
+"Woman Under the Influence, A",English | Long | 1950-1990 | Drama | Drama
+Zabriskie Point,English | Long | 1950-1990 | Drama | Drama
+"Devils, The",English | Long | 1950-1990 | Drama | History
+Reds,English | Long | 1950-1990 | Drama | History
+Blue Velvet,English | Long | 1950-1990 | Drama | Mystery
+Chinatown,English | Long | 1950-1990 | Drama | Mystery
+Picnic at Hanging Rock,English | Long | 1950-1990 | Drama | Mystery
+All the President's Men,English | Long | 1950-1990 | Drama | Political
+Cool Hand Luke,English | Long | 1950-1990 | Drama | Prison
+Ben-Hur,English | Long | 1950-1990 | Drama | Religious
+"Last Temptation of Christ, The",English | Long | 1950-1990 | Drama | Religious
+"Affair to Remember, An",English | Long | 1950-1990 | Drama | Romance
+Imitation of Life,English | Long | 1950-1990 | Drama | Romance
+"Place in the Sun, A",English | Long | 1950-1990 | Drama | Romance
+Strangers When We Meet,English | Long | 1950-1990 | Drama | Romance
+"Hustler, The",English | Long | 1950-1990 | Drama | Sport
+Raging Bull,English | Long | 1950-1990 | Drama | Sport
+Rocky,English | Long | 1950-1990 | Drama | Sport
+Bring Me the Head of Alfredo Garcia,English | Long | 1950-1990 | Drama | Thriller
+Kiss Me Deadly,English | Long | 1950-1990 | Drama | Thriller
+Apocalypse Now,English | Long | 1950-1990 | Drama | War
+"Bridge on the River Kwai, The",English | Long | 1950-1990 | Drama | War
+"Deer Hunter, The",English | Long | 1950-1990 | Drama | War
+Doctor Zhivago,English | Long | 1950-1990 | Drama | War
+Full Metal Jacket,English | Long | 1950-1990 | Drama | War
+Lawrence of Arabia,English | Long | 1950-1990 | Drama | War
+Excalibur,English | Long | 1950-1990 | Fantasy | Adventure
+O Lucky Man!,English | Long | 1950-1990 | Fantasy | Drama
+Dawn of the Dead,English | Long | 1950-1990 | Horror | Action
+Young Frankenstein,English | Long | 1950-1990 | Horror | Comedy
+"Birds, The",English | Long | 1950-1990 | Horror | Horror
+"Exorcist, The",English | Long | 1950-1990 | Horror | Horror
+"Shining, The",English | Long | 1950-1990 | Horror | Horror
+Jaws,English | Long | 1950-1990 | Horror | Thriller
+Repulsion,English | Long | 1950-1990 | Horror | Thriller
+Amadeus,English | Long | 1950-1990 | Musical | Biography
+"American in Paris, An",English | Long | 1950-1990 | Musical | Dance
+"Band Wagon, The",English | Long | 1950-1990 | Musical | Dance
+Cabaret,English | Long | 1950-1990 | Musical | Drama
+"Sound of Music, The",English | Long | 1950-1990 | Musical | Drama
+"Star is Born, A",English | Long | 1950-1990 | Musical | Drama
+Mary Poppins,English | Long | 1950-1990 | Musical | Family
+All That Jazz,English | Long | 1950-1990 | Musical | Fantasy
+"New York, New York",English | Long | 1950-1990 | Musical | Musical
+West Side Story,English | Long | 1950-1990 | Musical | Musical
+Superman,English | Long | 1950-1990 | Science Fiction | Action
+"Terminator, The",English | Long | 1950-1990 | Science Fiction | Action
+"Thing, The",English | Long | 1950-1990 | Science Fiction | Action
+Close Encounters of the Third Kind,English | Long | 1950-1990 | Science Fiction | Adventure
+Back to the Future,English | Long | 1950-1990 | Science Fiction | Comedy
+Ghostbusters,English | Long | 1950-1990 | Science Fiction | Comedy
+"Clockwork Orange, A",English | Long | 1950-1990 | Science Fiction | Crime
+"Man Who Fell to Earth, The",English | Long | 1950-1990 | Science Fiction | Drama
+E.T. The Extra-Terrestrial,English | Long | 1950-1990 | Science Fiction | Family
+Brazil,English | Long | 1950-1990 | Science Fiction | Fantasy
+"Empire Strikes Back, The",English | Long | 1950-1990 | Science Fiction | Fantasy
+Star Wars,English | Long | 1950-1990 | Science Fiction | Fantasy
+Alien,English | Long | 1950-1990 | Science Fiction | Horror
+Aliens,English | Long | 1950-1990 | Science Fiction | Horror
+2001: A Space Odyssey,English | Long | 1950-1990 | Science Fiction | Science Fiction
+Blade Runner,English | Long | 1950-1990 | Science Fiction | Thriller
+Die Hard,English | Long | 1950-1990 | Thriller | Action
+Touch of Evil,English | Long | 1950-1990 | Thriller | Crime
+"Conversation, The",English | Long | 1950-1990 | Thriller | Drama
+Cul-de-sac,English | Long | 1950-1990 | Thriller | Drama
+Peeping Tom,English | Long | 1950-1990 | Thriller | Drama
+Vertigo,English | Long | 1950-1990 | Thriller | Drama
+Psycho,English | Long | 1950-1990 | Thriller | Horror
+Rosemary's Baby,English | Long | 1950-1990 | Thriller | Horror
+Blow Out,English | Long | 1950-1990 | Thriller | Mystery
+Don't Look Now,English | Long | 1950-1990 | Thriller | Mystery
+Rear Window,English | Long | 1950-1990 | Thriller | Mystery
+"Manchurian Candidate, The",English | Long | 1950-1990 | Thriller | Political
+North by Northwest,English | Long | 1950-1990 | Thriller | Spy
+Marnie,English | Long | 1950-1990 | Thriller | Thriller
+Mad Max: Fury Road,English | Long | 1990-Now | Action | Adventure
+"Dark Knight, The",English | Long | 1990-Now | Action | Crime
+Inglourious Basterds,English | Long | 1990-Now | Action | Drama
+Titanic,English | Long | 1990-Now | Action | History
+Avatar,English | Long | 1990-Now | Action | Science Fiction
+Dead Man,English | Long | 1990-Now | Adventure | Drama
+Unforgiven,English | Long | 1990-Now | Adventure | Western
+"Big Lebowski, The",English | Long | 1990-Now | Comedy | Crime
+As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,English | Long | 1990-Now | Documentary | Biography
+Crumb,English | Long | 1990-Now | Documentary | Biography
+Hoop Dreams,English | Long | 1990-Now | Documentary | Drama
+Kill Bill Vol. 1,English | Long | 1990-Now | Drama | Action
+American Beauty,English | Long | 1990-Now | Drama | Comedy
+Barton Fink,English | Long | 1990-Now | Drama | Comedy
+Ed Wood,English | Long | 1990-Now | Drama | Comedy
+Forrest Gump,English | Long | 1990-Now | Drama | Comedy
+"Royal Tenenbaums, The",English | Long | 1990-Now | Drama | Comedy
+Secrets & Lies,English | Long | 1990-Now | Drama | Comedy
+Sideways,English | Long | 1990-Now | Drama | Comedy
+Thelma & Louise,English | Long | 1990-Now | Drama | Comedy
+Casino,English | Long | 1990-Now | Drama | Crime
+GoodFellas,English | Long | 1990-Now | Drama | Crime
+Miller's Crossing,English | Long | 1990-Now | Drama | Crime
+Pulp Fiction,English | Long | 1990-Now | Drama | Crime
+Boogie Nights,English | Long | 1990-Now | Drama | Drama
+Eternal Sunshine of the Spotless Mind,English | Long | 1990-Now | Drama | Drama
+Fight Club,English | Long | 1990-Now | Drama | Drama
+Magnolia,English | Long | 1990-Now | Drama | Drama
+Million Dollar Baby,English | Long | 1990-Now | Drama | Drama
+Naked,English | Long | 1990-Now | Drama | Drama
+No Country for Old Men,English | Long | 1990-Now | Drama | Drama
+Safe,English | Long | 1990-Now | Drama | Drama
+Short Cuts,English | Long | 1990-Now | Drama | Drama
+"Synecdoche, New York",English | Long | 1990-Now | Drama | Drama
+There Will Be Blood,English | Long | 1990-Now | Drama | Drama
+"Tree of Life, The",English | Long | 1990-Now | Drama | Drama
+Wild at Heart,English | Long | 1990-Now | Drama | Drama
+Zodiac,English | Long | 1990-Now | Drama | Drama
+JFK,English | Long | 1990-Now | Drama | History
+"New World, The",English | Long | 1990-Now | Drama | History
+Twin Peaks: Fire Walk with Me,English | Long | 1990-Now | Drama | Horror
+Moulin Rouge!,English | Long | 1990-Now | Drama | Musical
+Inland Empire,English | Long | 1990-Now | Drama | Mystery
+Lost Highway,English | Long | 1990-Now | Drama | Mystery
+Mulholland Dr.,English | Long | 1990-Now | Drama | Mystery
+"Shawshank Redemption, The",English | Long | 1990-Now | Drama | Prison
+"Age of Innocence, The",English | Long | 1990-Now | Drama | Romance
+"Bridges of Madison County, The",English | Long | 1990-Now | Drama | Romance
+Brokeback Mountain,English | Long | 1990-Now | Drama | Romance
+Children of Men,English | Long | 1990-Now | Drama | Science Fiction
+Saving Private Ryan,English | Long | 1990-Now | Drama | War
+Schindler's List,English | Long | 1990-Now | Drama | War
+"Thin Red Line, The",English | Long | 1990-Now | Drama | War
+Topsy-Turvy,English | Long | 1990-Now | Musical | Drama
+"Matrix, The",English | Long | 1990-Now | Science Fiction | Action
+Starship Troopers,English | Long | 1990-Now | Science Fiction | Action
+Terminator 2: Judgment Day,English | Long | 1990-Now | Science Fiction | Action
+Jurassic Park,English | Long | 1990-Now | Science Fiction | Adventure
+A.I. Artificial Intelligence,English | Long | 1990-Now | Science Fiction | Drama
+Point Break,English | Long | 1990-Now | Thriller | Action
+L.A. Confidential,English | Long | 1990-Now | Thriller | Crime
+Eyes Wide Shut,English | Long | 1990-Now | Thriller | Drama
+Funny Games,English | Long | 1990-Now | Thriller | Drama
+Heat,English | Long | 1990-Now | Thriller | Drama
+Memento,English | Long | 1990-Now | Thriller | Mystery
+Se7en,English | Long | 1990-Now | Thriller | Mystery
+"Silence of the Lambs, The",English | Long | 1990-Now | Thriller | Mystery
+"Usual Suspects, The",English | Long | 1990-Now | Thriller | Mystery
+Stagecoach,English | Short | Pre-1950 | Adventure | Action
+"Adventures of Robin Hood, The",English | Short | Pre-1950 | Adventure | Adventure
+She Wore a Yellow Ribbon,English | Short | Pre-1950 | Adventure | War
+My Darling Clementine,English | Short | Pre-1950 | Adventure | Western
+Wagon Master,English | Short | Pre-1950 | Adventure | Western
+Bambi,English | Short | Pre-1950 | Animated | Family
+Snow White and the Seven Dwarfs,English | Short | Pre-1950 | Animated | Family
+"General, The",English | Short | Pre-1950 | Comedy | Adventure
+"Gold Rush, The",English | Short | Pre-1950 | Comedy | Adventure
+"Navigator, The",English | Short | Pre-1950 | Comedy | Adventure
+Duck Soup,English | Short | Pre-1950 | Comedy | Comedy
+Hellzapoppin',English | Short | Pre-1950 | Comedy | Comedy
+Holiday,English | Short | Pre-1950 | Comedy | Comedy
+I Know Where I'm Going!,English | Short | Pre-1950 | Comedy | Comedy
+It's a Gift,English | Short | Pre-1950 | Comedy | Comedy
+Kind Hearts and Coronets,English | Short | Pre-1950 | Comedy | Comedy
+"Miracle of Morgan's Creek, The",English | Short | Pre-1950 | Comedy | Comedy
+"Steamboat Bill, Jr.",English | Short | Pre-1950 | Comedy | Comedy
+Our Hospitality,English | Short | Pre-1950 | Comedy | Family
+"Awful Truth, The",English | Short | Pre-1950 | Comedy | Romance
+Bringing Up Baby,English | Short | Pre-1950 | Comedy | Romance
+"Cameraman, The",English | Short | Pre-1950 | Comedy | Romance
+City Lights,English | Short | Pre-1950 | Comedy | Romance
+Design for Living,English | Short | Pre-1950 | Comedy | Romance
+His Girl Friday,English | Short | Pre-1950 | Comedy | Romance
+"Lady Eve, The",English | Short | Pre-1950 | Comedy | Romance
+Modern Times,English | Short | Pre-1950 | Comedy | Romance
+"Palm Beach Story, The",English | Short | Pre-1950 | Comedy | Romance
+Seven Chances,English | Short | Pre-1950 | Comedy | Romance
+"Shop Around the Corner, The",English | Short | Pre-1950 | Comedy | Romance
+Sullivan's Travels,English | Short | Pre-1950 | Comedy | Romance
+Trouble in Paradise,English | Short | Pre-1950 | Comedy | Romance
+To Be or Not to Be,English | Short | Pre-1950 | Comedy | War
+Man of Aran,English | Short | Pre-1950 | Documentary | Documentary
+Nanook of the North,English | Short | Pre-1950 | Documentary | Documentary
+Fires Were Started,English | Short | Pre-1950 | Documentary | Drama
+"Diary for Timothy, A",English | Short | Pre-1950 | Documentary | Short
+Listen to Britain,English | Short | Pre-1950 | Documentary | Short
+Shanghai Express,English | Short | Pre-1950 | Drama | Adventure
+Scarface,English | Short | Pre-1950 | Drama | Biography
+"Circus, The",English | Short | Pre-1950 | Drama | Comedy
+"Kid, The",English | Short | Pre-1950 | Drama | Comedy
+Detour,English | Short | Pre-1950 | Drama | Crime
+Gun Crazy,English | Short | Pre-1950 | Drama | Crime
+"Reckless Moment, The",English | Short | Pre-1950 | Drama | Crime
+They Live by Night,English | Short | Pre-1950 | Drama | Crime
+"Crowd, The",English | Short | Pre-1950 | Drama | Drama
+"Magnificent Ambersons, The",English | Short | Pre-1950 | Drama | Drama
+Make Way for Tomorrow,English | Short | Pre-1950 | Drama | Drama
+Tabu,English | Short | Pre-1950 | Drama | Drama
+To Have and Have Not,English | Short | Pre-1950 | Drama | Drama
+"Wind, The",English | Short | Pre-1950 | Drama | Drama
+In a Lonely Place,English | Short | Pre-1950 | Drama | Mystery
+"Lady from Shanghai, The",English | Short | Pre-1950 | Drama | Mystery
+Laura,English | Short | Pre-1950 | Drama | Mystery
+Young Mr. Lincoln,English | Short | Pre-1950 | Drama | Political
+Black Narcissus,English | Short | Pre-1950 | Drama | Religious
+Brief Encounter,English | Short | Pre-1950 | Drama | Romance
+Broken Blossoms,English | Short | Pre-1950 | Drama | Romance
+Letter from an Unknown Woman,English | Short | Pre-1950 | Drama | Romance
+"Woman of Paris, A",English | Short | Pre-1950 | Drama | Romance
+Casablanca,English | Short | Pre-1950 | Drama | War
+Morocco,English | Short | Pre-1950 | Drama | War
+King Kong,English | Short | Pre-1950 | Fantasy | Adventure
+Sherlock Jr.,English | Short | Pre-1950 | Fantasy | Comedy
+Pinocchio,English | Short | Pre-1950 | Fantasy | Family
+"Matter of Life and Death, A",English | Short | Pre-1950 | Fantasy | Fantasy
+"Ghost and Mrs. Muir, The",English | Short | Pre-1950 | Fantasy | Romance
+Freaks,English | Short | Pre-1950 | Horror | Drama
+I Walked with a Zombie,English | Short | Pre-1950 | Horror | Drama
+Bride of Frankenstein,English | Short | Pre-1950 | Horror | Science Fiction
+Frankenstein,English | Short | Pre-1950 | Horror | Science Fiction
+Love Me Tonight,English | Short | Pre-1950 | Musical | Comedy
+42nd Street,English | Short | Pre-1950 | Musical | Dance
+On the Town,English | Short | Pre-1950 | Musical | Dance
+Dumbo,English | Short | Pre-1950 | Musical | Family
+"Wizard of Oz, The",English | Short | Pre-1950 | Musical | Fantasy
+"Night at the Opera, A",English | Short | Pre-1950 | Musical | Musical
+Top Hat,English | Short | Pre-1950 | Musical | Musical
+Rope,English | Short | Pre-1950 | Thriller | Crime
+Cat People,English | Short | Pre-1950 | Thriller | Horror
+"Maltese Falcon, The",English | Short | Pre-1950 | Thriller | Mystery
+Out of the Past,English | Short | Pre-1950 | Thriller | Mystery
+"Third Man, The",English | Short | Pre-1950 | Thriller | Mystery
+"39 Steps, The",English | Short | Pre-1950 | Thriller | Spy
+"Lady Vanishes, The",English | Short | Pre-1950 | Thriller | Spy
+Notorious,English | Short | Pre-1950 | Thriller | Thriller
+Meshes of the Afternoon,English | Short | Pre-1950 | Avant-Garde | Short
+Assault on Precinct 13,English | Short | 1950-1990 | Action | Action
+Blazing Saddles,English | Short | 1950-1990 | Adventure | Comedy
+Moonfleet,English | Short | 1950-1990 | Adventure | Drama
+High Noon,English | Short | 1950-1990 | Adventure | Western
+Man of the West,English | Short | 1950-1990 | Adventure | Western
+Ride the High Country,English | Short | 1950-1990 | Adventure | Western
+Airplane!,English | Short | 1950-1990 | Comedy | Comedy
+Ferris Bueller's Day Off,English | Short | 1950-1990 | Comedy | Comedy
+"Ladies Man, The",English | Short | 1950-1990 | Comedy | Comedy
+"Party, The",English | Short | 1950-1990 | Comedy | Comedy
+"Producers, The",English | Short | 1950-1990 | Comedy | Comedy
+Raising Arizona,English | Short | 1950-1990 | Comedy | Comedy
+Stand by Me,English | Short | 1950-1990 | Comedy | Comedy
+Stranger Than Paradise,English | Short | 1950-1990 | Comedy | Comedy
+Zelig,English | Short | 1950-1990 | Comedy | Comedy
+Pink Flamingos,English | Short | 1950-1990 | Comedy | Crime
+Harold and Maude,English | Short | 1950-1990 | Comedy | Drama
+"Princess Bride, The",English | Short | 1950-1990 | Comedy | Family
+Monty Python and the Holy Grail,English | Short | 1950-1990 | Comedy | History
+This is Spinal Tap,English | Short | 1950-1990 | Comedy | Musical
+Monty Python's Life of Brian,English | Short | 1950-1990 | Comedy | Religious
+Annie Hall,English | Short | 1950-1990 | Comedy | Romance
+Gregory's Girl,English | Short | 1950-1990 | Comedy | Romance
+Manhattan,English | Short | 1950-1990 | Comedy | Romance
+When Harry Met Sally...,English | Short | 1950-1990 | Comedy | Romance
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,English | Short | 1950-1990 | Comedy | War
+Love and Death,English | Short | 1950-1990 | Comedy | War
+Grey Gardens,English | Short | 1950-1990 | Documentary | Comedy
+"Harlan County, U.S.A.",English | Short | 1950-1990 | Documentary | Documentary
+Koyaanisqatsi,English | Short | 1950-1990 | Documentary | Documentary
+Salesman,English | Short | 1950-1990 | Documentary | Documentary
+"Thin Blue Line, The",English | Short | 1950-1990 | Documentary | Documentary
+Titicut Follies,English | Short | 1950-1990 | Documentary | Drama
+Don't Look Back,English | Short | 1950-1990 | Documentary | Musical
+Gimme Shelter,English | Short | 1950-1990 | Documentary | Musical
+Dirty Harry,English | Short | 1950-1990 | Drama | Action
+Walkabout,English | Short | 1950-1990 | Drama | Adventure
+"Breakfast Club, The",English | Short | 1950-1990 | Drama | Comedy
+Crimes and Misdemeanors,English | Short | 1950-1990 | Drama | Comedy
+Deep End,English | Short | 1950-1990 | Drama | Comedy
+"Faster, Pussycat! Kill! Kill!",English | Short | 1950-1990 | Drama | Comedy
+Female Trouble,English | Short | 1950-1990 | Drama | Comedy
+"Ladykillers, The",English | Short | 1950-1990 | Drama | Comedy
+Paper Moon,English | Short | 1950-1990 | Drama | Comedy
+"Sun Shines Bright, The",English | Short | 1950-1990 | Drama | Comedy
+Badlands,English | Short | 1950-1990 | Drama | Crime
+"Big Heat, The",English | Short | 1950-1990 | Drama | Crime
+"French Connection, The",English | Short | 1950-1990 | Drama | Crime
+12 Angry Men,English | Short | 1950-1990 | Drama | Drama
+Bigger Than Life,English | Short | 1950-1990 | Drama | Drama
+"Dead, The",English | Short | 1950-1990 | Drama | Drama
+"Distant Voices, Still Lives",English | Short | 1950-1990 | Drama | Drama
+Easy Rider,English | Short | 1950-1990 | Drama | Drama
+Five Easy Pieces,English | Short | 1950-1990 | Drama | Drama
+Flaming Creatures,English | Short | 1950-1990 | Drama | Drama
+Killer of Sheep,English | Short | 1950-1990 | Drama | Drama
+Shadows,English | Short | 1950-1990 | Drama | Drama
+Sweet Smell of Success,English | Short | 1950-1990 | Drama | Drama
+Two-Lane Blacktop,English | Short | 1950-1990 | Drama | Drama
+Written on the Wind,English | Short | 1950-1990 | Drama | Drama
+Seven Women,English | Short | 1950-1990 | Drama | History
+Shock Corridor,English | Short | 1950-1990 | Drama | Mystery
+All That Heaven Allows,English | Short | 1950-1990 | Drama | Romance
+Days of Heaven,English | Short | 1950-1990 | Drama | Romance
+Saturday Night and Sunday Morning,English | Short | 1950-1990 | Drama | Romance
+Dog Star Man,English | Short | 1950-1990 | Drama | Short
+Fat City,English | Short | 1950-1990 | Drama | Sport
+"Loneliness of the Long Distance Runner, The",English | Short | 1950-1990 | Drama | Sport
+Pickup on South Street,English | Short | 1950-1990 | Drama | Spy
+"Killing, The",English | Short | 1950-1990 | Drama | Thriller
+Paths of Glory,English | Short | 1950-1990 | Drama | War
+"Purple Rose of Cairo, The",English | Short | 1950-1990 | Fantasy | Comedy
+Near Dark,English | Short | 1950-1990 | Horror | Drama
+Eraserhead,English | Short | 1950-1990 | Horror | Fantasy
+Carnival of Souls,English | Short | 1950-1990 | Horror | Horror
+Dracula,English | Short | 1950-1990 | Horror | Horror
+Evil Dead II,English | Short | 1950-1990 | Horror | Horror
+"Fly, The",English | Short | 1950-1990 | Horror | Horror
+Night of the Demon,English | Short | 1950-1990 | Horror | Horror
+Night of the Living Dead,English | Short | 1950-1990 | Horror | Horror
+"Wicker Man, The",English | Short | 1950-1990 | Horror | Mystery
+Carrie,English | Short | 1950-1990 | Horror | Thriller
+Halloween,English | Short | 1950-1990 | Horror | Thriller
+"Innocents, The",English | Short | 1950-1990 | Horror | Thriller
+"Hard Day's Night, A",English | Short | 1950-1990 | Musical | Comedy
+Singin' in the Rain,English | Short | 1950-1990 | Musical | Dance
+Phantom of the Paradise,English | Short | 1950-1990 | Musical | Horror
+Gentlemen Prefer Blondes,English | Short | 1950-1990 | Musical | Musical
+Mad Max 2,English | Short | 1950-1990 | Science Fiction | Action
+Robocop,English | Short | 1950-1990 | Science Fiction | Crime
+Invasion of the Body Snatchers,English | Short | 1950-1990 | Science Fiction | Horror
+"Thing from Another World, The",English | Short | 1950-1990 | Science Fiction | Horror
+"Day the Earth Stood Still, The",English | Short | 1950-1990 | Science Fiction | Science Fiction
+Forbidden Planet,English | Short | 1950-1990 | Science Fiction | Science Fiction
+"Incredible Shrinking Man, The",English | Short | 1950-1990 | Science Fiction | Science Fiction
+They Live,English | Short | 1950-1990 | Science Fiction | Thriller
+Enter the Dragon,English | Short | 1950-1990 | Thriller | Crime
+Point Blank,English | Short | 1950-1990 | Thriller | Crime
+Blood Simple,English | Short | 1950-1990 | Thriller | Drama
+Strangers on a Train,English | Short | 1950-1990 | Thriller | Drama
+"Texas Chainsaw Massacre, The",English | Short | 1950-1990 | Thriller | Horror
+"Night of the Hunter, The",English | Short | 1950-1990 | Thriller | Thriller
+Scorpio Rising,English | Short | 1950-1990 | Avant-Garde | Short
+WALL-E,English | Short | 1990-Now | Animated | Adventure
+Outer Space,English | Short | 1990-Now | Animated | Short
+Rushmore,English | Short | 1990-Now | Comedy | Comedy
+Grizzly Man,English | Short | 1990-Now | Documentary | Documentary
+Blue,English | Short | 1990-Now | Documentary | Drama
+Trainspotting,English | Short | 1990-Now | Drama | Comedy
+Fargo,English | Short | 1990-Now | Drama | Crime
+Reservoir Dogs,English | Short | 1990-Now | Drama | Crime
+Bad Lieutenant,English | Short | 1990-Now | Drama | Drama
+Dazed and Confused,English | Short | 1990-Now | Drama | Drama
+Elephant,English | Short | 1990-Now | Drama | Drama
+Gummo,English | Short | 1990-Now | Drama | Drama
+"History of Violence, A",English | Short | 1990-Now | Drama | Drama
+"Long Day Closes, The",English | Short | 1990-Now | Drama | Drama
+Lost in Translation,English | Short | 1990-Now | Drama | Drama
+My Own Private Idaho,English | Short | 1990-Now | Drama | Drama
+Punch-Drunk Love,English | Short | 1990-Now | Drama | Drama
+Requiem for a Dream,English | Short | 1990-Now | Drama | Drama
+Hunger,English | Short | 1990-Now | Drama | History
+Orlando,English | Short | 1990-Now | Drama | History
+Before Sunrise,English | Short | 1990-Now | Drama | Romance
+Before Sunset,English | Short | 1990-Now | Drama | Romance
+Toy Story,English | Short | 1990-Now | Fantasy | Comedy
+Groundhog Day,English | Short | 1990-Now | Fantasy | Fantasy
+Edward Scissorhands,English | Short | 1990-Now | Fantasy | Romance
+"47 Ronin, The",Foreign | Long | Pre-1950 | Action | History
+Triumph of the Will,Foreign | Long | Pre-1950 | Documentary | History
+Olympia,Foreign | Long | Pre-1950 | Documentary | Sport
+"Rules of the Game, The",Foreign | Long | Pre-1950 | Drama | Comedy
+Pandora's Box,Foreign | Long | Pre-1950 | Drama | Crime
+Day of Wrath,Foreign | Long | Pre-1950 | Drama | Drama
+Late Spring,Foreign | Long | Pre-1950 | Drama | Drama
+Limite,Foreign | Long | Pre-1950 | Drama | Drama
+Ossessione,Foreign | Long | Pre-1950 | Drama | Drama
+Stromboli,Foreign | Long | Pre-1950 | Drama | Drama
+"Terra trema, La",Foreign | Long | Pre-1950 | Drama | Drama
+"Passion of Joan of Arc, The",Foreign | Long | Pre-1950 | Drama | History
+"Grande illusion, La",Foreign | Long | Pre-1950 | Drama | Prison
+"Enfants du paradis, Les",Foreign | Long | Pre-1950 | Drama | Romance
+"Story of the Last Chrysanthemums, The",Foreign | Long | Pre-1950 | Drama | Romance
+Alexander Nevsky,Foreign | Long | Pre-1950 | Drama | War
+Napoléon,Foreign | Long | Pre-1950 | Drama | War
+Paisan,Foreign | Long | Pre-1950 | Drama | War
+"Rome, Open City",Foreign | Long | Pre-1950 | Drama | War
+Faust,Foreign | Long | Pre-1950 | Fantasy | Drama
+Metropolis,Foreign | Long | Pre-1950 | Fantasy | Science Fiction
+"Vampires, Les",Foreign | Long | Pre-1950 | Thriller | Crime
+"Dr. Mabuse, The Gambler",Foreign | Long | Pre-1950 | Thriller | Mystery
+"Testament of Dr. Mabuse, The",Foreign | Long | Pre-1950 | Thriller | Mystery
+"Boot, Das",Foreign | Long | 1950-1990 | Action | Adventure
+Sholay,Foreign | Long | 1950-1990 | Action | Drama
+"Good, the Bad and the Ugly, The",Foreign | Long | 1950-1990 | Adventure | Action
+"Touch of Zen, A",Foreign | Long | 1950-1990 | Adventure | Action
+"Holy Mountain, The",Foreign | Long | 1950-1990 | Adventure | Drama
+Once Upon a Time in the West,Foreign | Long | 1950-1990 | Adventure | Western
+Akira,Foreign | Long | 1950-1990 | Animated | Science Fiction
+Mon oncle,Foreign | Long | 1950-1990 | Comedy | Comedy
+Playtime,Foreign | Long | 1950-1990 | Comedy | Comedy
+We All Loved Each Other So Much,Foreign | Long | 1950-1990 | Comedy | Comedy
+Xala,Foreign | Long | 1950-1990 | Comedy | Comedy
+"Out 1, noli me tangere",Foreign | Long | 1950-1990 | Comedy | Drama
+Smiles of a Summer Night,Foreign | Long | 1950-1990 | Comedy | Romance
+Diary,Foreign | Long | 1950-1990 | Documentary | Documentary
+"Grin Without a Cat, A",Foreign | Long | 1950-1990 | Documentary | Documentary
+Shoah,Foreign | Long | 1950-1990 | Documentary | Documentary
+Twenty Years Later,Foreign | Long | 1950-1990 | Documentary | Documentary
+"Hour of the Furnaces, The",Foreign | Long | 1950-1990 | Documentary | Political
+"Emperor's Naked Army Marches On, The",Foreign | Long | 1950-1990 | Documentary | War
+"Sorrow and the Pity, The",Foreign | Long | 1950-1990 | Documentary | War
+Harakiri,Foreign | Long | 1950-1990 | Drama | Action
+Seven Samurai,Foreign | Long | 1950-1990 | Drama | Action
+Yojimbo,Foreign | Long | 1950-1990 | Drama | Action
+In the Realm of the Senses,Foreign | Long | 1950-1990 | Drama | Adult
+Dersu Uzala,Foreign | Long | 1950-1990 | Drama | Adventure
+Fitzcarraldo,Foreign | Long | 1950-1990 | Drama | Adventure
+"Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles",Foreign | Long | 1950-1990 | Drama | Avant-Garde
+Edvard Munch,Foreign | Long | 1950-1990 | Drama | Biography
+"Enigma of Kaspar Hauser, The",Foreign | Long | 1950-1990 | Drama | Biography
+Fellini's Casanova,Foreign | Long | 1950-1990 | Drama | Biography
+Hitler: A Film from Germany,Foreign | Long | 1950-1990 | Drama | Biography
+Lola Montès,Foreign | Long | 1950-1990 | Drama | Biography
+Ludwig,Foreign | Long | 1950-1990 | Drama | Biography
+"Mirror, The",Foreign | Long | 1950-1990 | Drama | Biography
+Amarcord,Foreign | Long | 1950-1990 | Drama | Comedy
+Cinema Paradiso,Foreign | Long | 1950-1990 | Drama | Comedy
+Day for Night,Foreign | Long | 1950-1990 | Drama | Comedy
+Fellini's Roma,Foreign | Long | 1950-1990 | Drama | Comedy
+Mon oncle d'Amérique,Foreign | Long | 1950-1990 | Drama | Comedy
+Stroszek,Foreign | Long | 1950-1990 | Drama | Comedy
+Cría cuervos,Foreign | Long | 1950-1990 | Drama | Crime
+Once Upon a Time in America,Foreign | Long | 1950-1990 | Drama | Crime
+Rififi,Foreign | Long | 1950-1990 | Drama | Crime
+"Trou, Le",Foreign | Long | 1950-1990 | Drama | Crime
+8½,Foreign | Long | 1950-1990 | Drama | Drama
+Accattone,Foreign | Long | 1950-1990 | Drama | Drama
+Alice in the Cities,Foreign | Long | 1950-1990 | Drama | Drama
+Aparajito,Foreign | Long | 1950-1990 | Drama | Drama
+"Autumn Afternoon, An",Foreign | Long | 1950-1990 | Drama | Drama
+"Ballad of Narayama, The",Foreign | Long | 1950-1990 | Drama | Drama
+"Bitter Tears of Petra von Kant, The",Foreign | Long | 1950-1990 | Drama | Drama
+Claire's Knee,Foreign | Long | 1950-1990 | Drama | Drama
+Cries and Whispers,Foreign | Long | 1950-1990 | Drama | Drama
+Death in Venice,Foreign | Long | 1950-1990 | Drama | Drama
+Dekalog,Foreign | Long | 1950-1990 | Drama | Drama
+"Dolce vita, La",Foreign | Long | 1950-1990 | Drama | Drama
+Early Summer,Foreign | Long | 1950-1990 | Drama | Drama
+Europa '51,Foreign | Long | 1950-1990 | Drama | Drama
+Fanny and Alexander,Foreign | Long | 1950-1990 | Drama | Drama
+Floating Weeds,Foreign | Long | 1950-1990 | Drama | Drama
+Gertrud,Foreign | Long | 1950-1990 | Drama | Drama
+"Grido, Il",Foreign | Long | 1950-1990 | Drama | Drama
+Ikiru,Foreign | Long | 1950-1990 | Drama | Drama
+In a Year with 13 Moons,Foreign | Long | 1950-1990 | Drama | Drama
+India Song,Foreign | Long | 1950-1990 | Drama | Drama
+Kings of the Road,Foreign | Long | 1950-1990 | Drama | Drama
+Landscape in the Mist,Foreign | Long | 1950-1990 | Drama | Drama
+Last Tango in Paris,Foreign | Long | 1950-1990 | Drama | Drama
+"Life of Oharu, The",Foreign | Long | 1950-1990 | Drama | Drama
+Mamma Roma,Foreign | Long | 1950-1990 | Drama | Drama
+"Mother and the Whore, The",Foreign | Long | 1950-1990 | Drama | Drama
+Muriel,Foreign | Long | 1950-1990 | Drama | Drama
+My Little Loves,Foreign | Long | 1950-1990 | Drama | Drama
+Nights of Cabiria,Foreign | Long | 1950-1990 | Drama | Drama
+Nostalghia,Foreign | Long | 1950-1990 | Drama | Drama
+"Notte, La",Foreign | Long | 1950-1990 | Drama | Drama
+"Passenger, The",Foreign | Long | 1950-1990 | Drama | Drama
+Pather Panchali,Foreign | Long | 1950-1990 | Drama | Drama
+Pierrot le fou,Foreign | Long | 1950-1990 | Drama | Drama
+Providence,Foreign | Long | 1950-1990 | Drama | Drama
+Red Beard,Foreign | Long | 1950-1990 | Drama | Drama
+Red Desert,Foreign | Long | 1950-1990 | Drama | Drama
+Rocco and His Brothers,Foreign | Long | 1950-1990 | Drama | Drama
+"Sacrifice, The",Foreign | Long | 1950-1990 | Drama | Drama
+Sansho the Bailiff,Foreign | Long | 1950-1990 | Drama | Drama
+Scenes from a Marriage,Foreign | Long | 1950-1990 | Drama | Drama
+Second Breath,Foreign | Long | 1950-1990 | Drama | Drama
+"Strada, La",Foreign | Long | 1950-1990 | Drama | Drama
+Subarnarekha,Foreign | Long | 1950-1990 | Drama | Drama
+Taipei Story,Foreign | Long | 1950-1990 | Drama | Drama
+Time of the Gypsies,Foreign | Long | 1950-1990 | Drama | Drama
+"Time to Live and the Time to Die, The",Foreign | Long | 1950-1990 | Drama | Drama
+Tokyo Story,Foreign | Long | 1950-1990 | Drama | Drama
+"Tree of Wooden Clogs, The",Foreign | Long | 1950-1990 | Drama | Drama
+Two English Girls,Foreign | Long | 1950-1990 | Drama | Drama
+Vagabond,Foreign | Long | 1950-1990 | Drama | Drama
+Veronika Voss,Foreign | Long | 1950-1990 | Drama | Drama
+Woman in the Dunes,Foreign | Long | 1950-1990 | Drama | Drama
+Yol,Foreign | Long | 1950-1990 | Drama | Drama
+"Trial, The",Foreign | Long | 1950-1990 | Drama | Fantasy
+Yeelen,Foreign | Long | 1950-1990 | Drama | Fantasy
+Andrei Rublev,Foreign | Long | 1950-1990 | Drama | History
+Berlin Alexanderplatz,Foreign | Long | 1950-1990 | Drama | History
+Fellini Satyricon,Foreign | Long | 1950-1990 | Drama | History
+"Last Emperor, The",Foreign | Long | 1950-1990 | Drama | History
+"Leopard, The",Foreign | Long | 1950-1990 | Drama | History
+Marketa Lazarová,Foreign | Long | 1950-1990 | Drama | History
+Salvatore Giuliano,Foreign | Long | 1950-1990 | Drama | History
+Arrebato,Foreign | Long | 1950-1990 | Drama | Horror
+"Cloud-Capped Star, The",Foreign | Long | 1950-1990 | Drama | Musical
+Mother India,Foreign | Long | 1950-1990 | Drama | Musical
+Pyaasa,Foreign | Long | 1950-1990 | Drama | Musical
+"Avventura, L'",Foreign | Long | 1950-1990 | Drama | Mystery
+Blow-Up,Foreign | Long | 1950-1990 | Drama | Mystery
+"Saragossa Manuscript, The",Foreign | Long | 1950-1990 | Drama | Mystery
+1900,Foreign | Long | 1950-1990 | Drama | Political
+"Age of the Earth, The",Foreign | Long | 1950-1990 | Drama | Political
+"Black God, White Devil",Foreign | Long | 1950-1990 | Drama | Political
+"City of Sadness, A",Foreign | Long | 1950-1990 | Drama | Political
+"Conformist, The",Foreign | Long | 1950-1990 | Drama | Political
+I Am Cuba,Foreign | Long | 1950-1990 | Drama | Political
+Terra em Transe,Foreign | Long | 1950-1990 | Drama | Political
+"Travelling Players, The",Foreign | Long | 1950-1990 | Drama | Political
+Diary of a Country Priest,Foreign | Long | 1950-1990 | Drama | Religious
+"Gospel According to St. Matthew, The",Foreign | Long | 1950-1990 | Drama | Religious
+Ordet,Foreign | Long | 1950-1990 | Drama | Religious
+Charulata,Foreign | Long | 1950-1990 | Drama | Romance
+Dust in the Wind,Foreign | Long | 1950-1990 | Drama | Romance
+"Eclisse, L'",Foreign | Long | 1950-1990 | Drama | Romance
+Floating Clouds,Foreign | Long | 1950-1990 | Drama | Romance
+Kaagaz Ke Phool,Foreign | Long | 1950-1990 | Drama | Romance
+Madame de...,Foreign | Long | 1950-1990 | Drama | Romance
+My Night at Maud's,Foreign | Long | 1950-1990 | Drama | Romance
+"Woman Next Door, The",Foreign | Long | 1950-1990 | Drama | Romance
+Army of Shadows,Foreign | Long | 1950-1990 | Drama | War
+"Ascent, The",Foreign | Long | 1950-1990 | Drama | War
+"Battle of Algiers, The",Foreign | Long | 1950-1990 | Drama | War
+Chimes at Midnight,Foreign | Long | 1950-1990 | Drama | War
+Come and See,Foreign | Long | 1950-1990 | Drama | War
+"Damned, The",Foreign | Long | 1950-1990 | Drama | War
+Kagemusha,Foreign | Long | 1950-1990 | Drama | War
+"Marriage of Maria Braun, The",Foreign | Long | 1950-1990 | Drama | War
+Ran,Foreign | Long | 1950-1990 | Drama | War
+Senso,Foreign | Long | 1950-1990 | Drama | War
+Throne of Blood,Foreign | Long | 1950-1990 | Drama | War
+"Tin Drum, The",Foreign | Long | 1950-1990 | Drama | War
+Arabian Nights,Foreign | Long | 1950-1990 | Fantasy | Adventure
+Celine and Julie Go Boating,Foreign | Long | 1950-1990 | Fantasy | Drama
+Dodes'ka-den,Foreign | Long | 1950-1990 | Fantasy | Drama
+Juliet of the Spirits,Foreign | Long | 1950-1990 | Fantasy | Drama
+Wings of Desire,Foreign | Long | 1950-1990 | Fantasy | Drama
+Possession,Foreign | Long | 1950-1990 | Horror | Drama
+"Salò, or the 120 Days of Sodom",Foreign | Long | 1950-1990 | Horror | Drama
+Kwaidan,Foreign | Long | 1950-1990 | Horror | Fantasy
+"Tenant, The",Foreign | Long | 1950-1990 | Horror | Thriller
+"Young Girls of Rochefort, The",Foreign | Long | 1950-1990 | Musical | Dance
+Solaris,Foreign | Long | 1950-1990 | Science Fiction | Drama
+Stalker,Foreign | Long | 1950-1990 | Science Fiction | Mystery
+"Wages of Fear, The",Foreign | Long | 1950-1990 | Thriller | Adventure
+High and Low,Foreign | Long | 1950-1990 | Thriller | Crime
+"Killer, The",Foreign | Long | 1950-1990 | Thriller | Crime
+"Red Circle, The",Foreign | Long | 1950-1990 | Thriller | Crime
+Vengeance is Mine,Foreign | Long | 1950-1990 | Thriller | Crime
+Dead Ringers,Foreign | Long | 1950-1990 | Thriller | Horror
+"Diaboliques, Les",Foreign | Long | 1950-1990 | Thriller | Mystery
+Z,Foreign | Long | 1950-1990 | Thriller | Political
+"Région centrale, La",Foreign | Long | 1950-1990 | Avant-Garde | Avant-Garde
+"Host, The",Foreign | Long | 1990-Now | Action | Comedy
+Oldboy,Foreign | Long | 1990-Now | Action | Mystery
+Princess Mononoke,Foreign | Long | 1990-Now | Animated | Adventure
+Spirited Away,Foreign | Long | 1990-Now | Animated | Adventure
+Amélie,Foreign | Long | 1990-Now | Comedy | Romance
+"Last Bolshevik, The",Foreign | Long | 1990-Now | Documentary | Biography
+Quince Tree of the Sun,Foreign | Long | 1990-Now | Documentary | Biography
+D'Est,Foreign | Long | 1990-Now | Documentary | Documentary
+Histoire(s) du cinéma,Foreign | Long | 1990-Now | Documentary | Documentary
+Tie Xi Qu: West of the Tracks,Foreign | Long | 1990-Now | Documentary | Documentary
+"Crouching Tiger, Hidden Dragon",Foreign | Long | 1990-Now | Drama | Adventure
+"Angel at My Table, An",Foreign | Long | 1990-Now | Drama | Biography
+"Diving Bell and the Butterfly, The",Foreign | Long | 1990-Now | Drama | Biography
+"Puppetmaster, The",Foreign | Long | 1990-Now | Drama | Biography
+Van Gogh,Foreign | Long | 1990-Now | Drama | Biography
+"Idiots, The",Foreign | Long | 1990-Now | Drama | Comedy
+Sátántangó,Foreign | Long | 1990-Now | Drama | Comedy
+Y tu mamá también,Foreign | Long | 1990-Now | Drama | Comedy
+City of God,Foreign | Long | 1990-Now | Drama | Crime
+And Life Goes On...,Foreign | Long | 1990-Now | Drama | Documentary
+"4 Months, 3 Weeks and 2 Days",Foreign | Long | 1990-Now | Drama | Drama
+Abraham's Valley,Foreign | Long | 1990-Now | Drama | Drama
+"Amants du Pont-Neuf, Les",Foreign | Long | 1990-Now | Drama | Drama
+Amores perros,Foreign | Long | 1990-Now | Drama | Drama
+"Belle noiseuse, La",Foreign | Long | 1990-Now | Drama | Drama
+Central Station,Foreign | Long | 1990-Now | Drama | Drama
+Code Unknown,Foreign | Long | 1990-Now | Drama | Drama
+Colossal Youth,Foreign | Long | 1990-Now | Drama | Drama
+"Death of Mr. Lazarescu, The",Foreign | Long | 1990-Now | Drama | Drama
+Distant,Foreign | Long | 1990-Now | Drama | Drama
+Dogville,Foreign | Long | 1990-Now | Drama | Drama
+Festen,Foreign | Long | 1990-Now | Drama | Drama
+Flowers of Shanghai,Foreign | Long | 1990-Now | Drama | Drama
+"Humanité, L'",Foreign | Long | 1990-Now | Drama | Drama
+In Vanda's Room,Foreign | Long | 1990-Now | Drama | Drama
+"Intruder, The",Foreign | Long | 1990-Now | Drama | Drama
+"Lives of Others, The",Foreign | Long | 1990-Now | Drama | Drama
+Memories of Murder,Foreign | Long | 1990-Now | Drama | Drama
+Once Upon a Time in Anatolia,Foreign | Long | 1990-Now | Drama | Drama
+"Piano Teacher, The",Foreign | Long | 1990-Now | Drama | Drama
+Raise the Red Lantern,Foreign | Long | 1990-Now | Drama | Drama
+"River, The",Foreign | Long | 1990-Now | Drama | Drama
+Saraband,Foreign | Long | 1990-Now | Drama | Drama
+"Separation, A",Foreign | Long | 1990-Now | Drama | Drama
+Silent Light,Foreign | Long | 1990-Now | Drama | Drama
+"Sweet Hereafter, The",Foreign | Long | 1990-Now | Drama | Drama
+Syndromes and a Century,Foreign | Long | 1990-Now | Drama | Drama
+To Live,Foreign | Long | 1990-Now | Drama | Drama
+"Turin Horse, The",Foreign | Long | 1990-Now | Drama | Drama
+Vive L'Amour,Foreign | Long | 1990-Now | Drama | Drama
+Werckmeister Harmonies,Foreign | Long | 1990-Now | Drama | Drama
+"White Ribbon, The",Foreign | Long | 1990-Now | Drama | Drama
+"Wind Will Carry Us, The",Foreign | Long | 1990-Now | Drama | Drama
+Yi yi,Foreign | Long | 1990-Now | Drama | Drama
+After Life,Foreign | Long | 1990-Now | Drama | Fantasy
+Holy Motors,Foreign | Long | 1990-Now | Drama | Fantasy
+Pan's Labyrinth,Foreign | Long | 1990-Now | Drama | Fantasy
+Tropical Malady,Foreign | Long | 1990-Now | Drama | Fantasy
+Uncle Boonmee Who Can Recall His Past Lives,Foreign | Long | 1990-Now | Drama | Fantasy
+Burnt by the Sun,Foreign | Long | 1990-Now | Drama | History
+"Commune (Paris, 1871), La",Foreign | Long | 1990-Now | Drama | History
+"Farewell, My Concubine",Foreign | Long | 1990-Now | Drama | History
+"Piano, The",Foreign | Long | 1990-Now | Drama | History
+Platform,Foreign | Long | 1990-Now | Drama | History
+Let the Right One In,Foreign | Long | 1990-Now | Drama | Horror
+Amour,Foreign | Long | 1990-Now | Drama | Romance
+Blissfully Yours,Foreign | Long | 1990-Now | Drama | Romance
+Breaking the Waves,Foreign | Long | 1990-Now | Drama | Romance
+"Brighter Summer Day, A",Foreign | Long | 1990-Now | Drama | Romance
+Still Life,Foreign | Long | 1990-Now | Drama | Romance
+Talk to Her,Foreign | Long | 1990-Now | Drama | Romance
+Melancholia,Foreign | Long | 1990-Now | Drama | Science Fiction
+Underground,Foreign | Long | 1990-Now | Drama | War
+"Lord of the Rings: The Fellowship of the Ring, The",Foreign | Long | 1990-Now | Fantasy | Adventure
+"Lord of the Rings: The Return of the King, The",Foreign | Long | 1990-Now | Fantasy | Adventure
+Dancer in the Dark,Foreign | Long | 1990-Now | Musical | Drama
+2046,Foreign | Long | 1990-Now | Science Fiction | Drama
+Léon,Foreign | Long | 1990-Now | Thriller | Crime
+Caché,Foreign | Long | 1990-Now | Thriller | Drama
+Audition,Foreign | Long | 1990-Now | Thriller | Horror
+"Adventures of Prince Achmed, The",Foreign | Short | Pre-1950 | Animated | Adventure
+Boudu Saved from Drowning,Foreign | Short | Pre-1950 | Comedy | Comedy
+"Million, Le",Foreign | Short | Pre-1950 | Comedy | Musical
+"Man with a Movie Camera, The",Foreign | Short | Pre-1950 | Documentary | Avant-Garde
+Berlin: Symphony of a Great City,Foreign | Short | Pre-1950 | Documentary | Documentary
+Häxan,Foreign | Short | Pre-1950 | Documentary | Horror
+Land Without Bread,Foreign | Short | Pre-1950 | Documentary | Short
+"Sang des bêtes, Le",Foreign | Short | Pre-1950 | Documentary | Short
+"Âge d'or, L'",Foreign | Short | Pre-1950 | Drama | Avant-Garde
+"I Was Born, But...",Foreign | Short | Pre-1950 | Drama | Comedy
+Street Angel,Foreign | Short | Pre-1950 | Drama | Comedy
+"Crime of Monsieur Lange, The",Foreign | Short | Pre-1950 | Drama | Crime
+"Nuit du carrefour, La",Foreign | Short | Pre-1950 | Drama | Crime
+"Olvidados, Los",Foreign | Short | Pre-1950 | Drama | Crime
+Rashomon,Foreign | Short | Pre-1950 | Drama | Crime
+"Bête humaine, La",Foreign | Short | Pre-1950 | Drama | Drama
+Bicycle Thieves,Foreign | Short | Pre-1950 | Drama | Drama
+"Blue Angel, The",Foreign | Short | Pre-1950 | Drama | Drama
+"Chant d'amour, Un",Foreign | Short | Pre-1950 | Drama | Drama
+"Chienne, La",Foreign | Short | Pre-1950 | Drama | Drama
+Earth,Foreign | Short | Pre-1950 | Drama | Drama
+"Goddess, The",Foreign | Short | Pre-1950 | Drama | Drama
+Humanity and Paper Balloons,Foreign | Short | Pre-1950 | Drama | Drama
+"Last Laugh, The",Foreign | Short | Pre-1950 | Drama | Drama
+Partie de campagne,Foreign | Short | Pre-1950 | Drama | Drama
+Pépé le Moko,Foreign | Short | Pre-1950 | Drama | Drama
+Port of Shadows,Foreign | Short | Pre-1950 | Drama | Drama
+October,Foreign | Short | Pre-1950 | Drama | History
+"Ivan the Terrible, Part 1",Foreign | Short | Pre-1950 | Drama | History
+"Ivan the Terrible, Part 2",Foreign | Short | Pre-1950 | Drama | History
+Strike,Foreign | Short | Pre-1950 | Drama | History
+"Flowers of St. Francis, The",Foreign | Short | Pre-1950 | Drama | Religious
+"Atalante, L'",Foreign | Short | Pre-1950 | Drama | Romance
+"Dames du Bois de Boulogne, Les",Foreign | Short | Pre-1950 | Drama | Romance
+Spring in a Small Town,Foreign | Short | Pre-1950 | Drama | Romance
+By the Bluest of Seas,Foreign | Short | Pre-1950 | Drama | Romantic
+Zero for Conduct,Foreign | Short | Pre-1950 | Drama | Short
+Battleship Potemkin,Foreign | Short | Pre-1950 | Drama | War
+"Germany, Year Zero",Foreign | Short | Pre-1950 | Drama | War
+Outskirts,Foreign | Short | Pre-1950 | Drama | War
+"Phantom Carriage, The",Foreign | Short | Pre-1950 | Fantasy | Drama
+"Belle et la bête, La",Foreign | Short | Pre-1950 | Fantasy | Fantasy
+Orpheus,Foreign | Short | Pre-1950 | Fantasy | Fantasy
+"Cabinet of Dr. Caligari, The",Foreign | Short | Pre-1950 | Horror | Fantasy
+"Chien andalou, Un",Foreign | Short | Pre-1950 | Horror | Fantasy
+Nosferatu,Foreign | Short | Pre-1950 | Horror | Horror
+Vampyr,Foreign | Short | Pre-1950 | Horror | Horror
+"Voyage dans la lune, Le",Foreign | Short | Pre-1950 | Science Fiction | Short
+"Jour se lève, Le",Foreign | Short | Pre-1950 | Thriller | Crime
+M,Foreign | Short | Pre-1950 | Thriller | Drama
+Spione,Foreign | Short | Pre-1950 | Thriller | Spy
+"Tiger of Eschnapur, The",Foreign | Short | 1950-1990 | Adventure | Romance
+Tale of Tales,Foreign | Short | 1950-1990 | Animated | Short
+Grave of the Fireflies,Foreign | Short | 1950-1990 | Animated | War
+"Firemen's Ball, The",Foreign | Short | 1950-1990 | Comedy | Comedy
+Good Morning,Foreign | Short | 1950-1990 | Comedy | Comedy
+Mr. Hulot's Holiday,Foreign | Short | 1950-1990 | Comedy | Comedy
+Plácido,Foreign | Short | 1950-1990 | Comedy | Comedy
+"Hawks and the Sparrows, The",Foreign | Short | 1950-1990 | Comedy | Drama
+F for Fake,Foreign | Short | 1950-1990 | Documentary | Avant-Garde
+Chronicle of a Summer,Foreign | Short | 1950-1990 | Documentary | Documentary
+"Tale of the Wind, A",Foreign | Short | 1950-1990 | Documentary | Documentary
+"Too Early, Too Late",Foreign | Short | 1950-1990 | Documentary | Documentary
+Aguaespejo granadino,Foreign | Short | 1950-1990 | Documentary | Short
+"House is Black, The",Foreign | Short | 1950-1990 | Documentary | Short
+"Maîtres fous, Les",Foreign | Short | 1950-1990 | Documentary | Short
+"Seasons, The",Foreign | Short | 1950-1990 | Documentary | Short
+Night and Fog,Foreign | Short | 1950-1990 | Documentary | War
+Branded to Kill,Foreign | Short | 1950-1990 | Drama | Action
+"Rise to Power of Louis XIV, The",Foreign | Short | 1950-1990 | Drama | Biography
+Big Deal on Madonna Street,Foreign | Short | 1950-1990 | Drama | Comedy
+Closely Watched Trains,Foreign | Short | 1950-1990 | Drama | Comedy
+Daisies,Foreign | Short | 1950-1990 | Drama | Comedy
+"Golden Coach, The",Foreign | Short | 1950-1990 | Drama | Comedy
+Loves of a Blonde,Foreign | Short | 1950-1990 | Drama | Comedy
+My Life as a Dog,Foreign | Short | 1950-1990 | Drama | Comedy
+"Phantom of Liberty, The",Foreign | Short | 1950-1990 | Drama | Comedy
+"Verdugo, El",Foreign | Short | 1950-1990 | Drama | Comedy
+W.R.: Mysteries of the Organism,Foreign | Short | 1950-1990 | Drama | Comedy
+Women on the Verge of a Nervous Breakdown,Foreign | Short | 1950-1990 | Drama | Comedy
+"Argent, L'",Foreign | Short | 1950-1990 | Drama | Crime
+"Criminal Life of Archibaldo de la Cruz, The",Foreign | Short | 1950-1990 | Drama | Crime
+Pickpocket,Foreign | Short | 1950-1990 | Drama | Crime
+Shoot the Piano Player,Foreign | Short | 1950-1990 | Drama | Crime
+"Short Film About Killing, A",Foreign | Short | 1950-1990 | Drama | Crime
+"400 Blows, The",Foreign | Short | 1950-1990 | Drama | Drama
+À nos amours,Foreign | Short | 1950-1990 | Drama | Drama
+Au hasard Balthazar,Foreign | Short | 1950-1990 | Drama | Drama
+Bande à part,Foreign | Short | 1950-1990 | Drama | Drama
+Barren Lives,Foreign | Short | 1950-1990 | Drama | Drama
+Belle de jour,Foreign | Short | 1950-1990 | Drama | Drama
+Black Girl,Foreign | Short | 1950-1990 | Drama | Drama
+"Bonheur, Le",Foreign | Short | 1950-1990 | Drama | Drama
+Breathless,Foreign | Short | 1950-1990 | Drama | Drama
+Cairo Station,Foreign | Short | 1950-1990 | Drama | Drama
+Casque d'or,Foreign | Short | 1950-1990 | Drama | Drama
+Cléo from 5 to 7,Foreign | Short | 1950-1990 | Drama | Drama
+Contempt,Foreign | Short | 1950-1990 | Drama | Drama
+"Devil, Probably, The",Foreign | Short | 1950-1990 | Drama | Drama
+El,Foreign | Short | 1950-1990 | Drama | Drama
+"End of Summer, The",Foreign | Short | 1950-1990 | Drama | Drama
+"Enfance nue, L'",Foreign | Short | 1950-1990 | Drama | Drama
+Hiroshima mon amour,Foreign | Short | 1950-1990 | Drama | Drama
+Iracema - Uma Transa Amazônica,Foreign | Short | 1950-1990 | Drama | Drama
+Knife in the Water,Foreign | Short | 1950-1990 | Drama | Drama
+Masculin Feminin,Foreign | Short | 1950-1990 | Drama | Drama
+"Moi, un Noir",Foreign | Short | 1950-1990 | Drama | Drama
+Mouchette,Foreign | Short | 1950-1990 | Drama | Drama
+"Music Room, The",Foreign | Short | 1950-1990 | Drama | Drama
+My Friend Ivan Lapshin,Foreign | Short | 1950-1990 | Drama | Drama
+"Naked Island, The",Foreign | Short | 1950-1990 | Drama | Drama
+News from Home,Foreign | Short | 1950-1990 | Drama | Drama
+Not Reconciled,Foreign | Short | 1950-1990 | Drama | Drama
+Numéro deux,Foreign | Short | 1950-1990 | Drama | Drama
+Othello,Foreign | Short | 1950-1990 | Drama | Drama
+Passion,Foreign | Short | 1950-1990 | Drama | Drama
+"Posto, Il",Foreign | Short | 1950-1990 | Drama | Drama
+Red Sorghum,Foreign | Short | 1950-1990 | Drama | Drama
+Sauve qui peut (la vie),Foreign | Short | 1950-1990 | Drama | Drama
+Sawdust and Tinsel,Foreign | Short | 1950-1990 | Drama | Drama
+Shadows of Our Forgotten Ancestors,Foreign | Short | 1950-1990 | Drama | Drama
+"Silence, The",Foreign | Short | 1950-1990 | Drama | Drama
+"Spirit of the Beehive, The",Foreign | Short | 1950-1990 | Drama | Drama
+Street of Shame,Foreign | Short | 1950-1990 | Drama | Drama
+Teorema,Foreign | Short | 1950-1990 | Drama | Drama
+That Obscure Object of Desire,Foreign | Short | 1950-1990 | Drama | Drama
+Touki Bouki,Foreign | Short | 1950-1990 | Drama | Drama
+Tristana,Foreign | Short | 1950-1990 | Drama | Drama
+Two or Three Things I Know About Her,Foreign | Short | 1950-1990 | Drama | Drama
+Ugetsu monogatari,Foreign | Short | 1950-1990 | Drama | Drama
+Umberto D.,Foreign | Short | 1950-1990 | Drama | Drama
+"Virgin Spring, The",Foreign | Short | 1950-1990 | Drama | Drama
+Viridiana,Foreign | Short | 1950-1990 | Drama | Drama
+"Vitelloni, I",Foreign | Short | 1950-1990 | Drama | Drama
+Vivre sa vie,Foreign | Short | 1950-1990 | Drama | Drama
+Week-End,Foreign | Short | 1950-1990 | Drama | Drama
+Where is the Friend's Home?,Foreign | Short | 1950-1990 | Drama | Drama
+"Wild Child, The",Foreign | Short | 1950-1990 | Drama | Drama
+Wild Strawberries,Foreign | Short | 1950-1990 | Drama | Drama
+"World of Apu, The",Foreign | Short | 1950-1990 | Drama | Drama
+"Exterminating Angel, The",Foreign | Short | 1950-1990 | Drama | Fantasy
+Aguirre: The Wrath of God,Foreign | Short | 1950-1990 | Drama | History
+"Chronicle of Anna Magdalena Bach, The",Foreign | Short | 1950-1990 | Drama | History
+Last Year at Marienbad,Foreign | Short | 1950-1990 | Drama | Mystery
+Memories of Underdevelopment,Foreign | Short | 1950-1990 | Drama | Political
+"Round-Up, The",Foreign | Short | 1950-1990 | Drama | Political
+Yellow Earth,Foreign | Short | 1950-1990 | Drama | Political
+"Man Escaped, A",Foreign | Short | 1950-1990 | Drama | Prison
+Nazarín,Foreign | Short | 1950-1990 | Drama | Religious
+Winter Light,Foreign | Short | 1950-1990 | Drama | Religious
+Ali: Fear Eats the Soul,Foreign | Short | 1950-1990 | Drama | Romance
+Black Orpheus,Foreign | Short | 1950-1990 | Drama | Romance
+Chikamatsu monogatari,Foreign | Short | 1950-1990 | Drama | Romance
+"Green Ray, The",Foreign | Short | 1950-1990 | Drama | Romance
+Jules et Jim,Foreign | Short | 1950-1990 | Drama | Romance
+Lola,Foreign | Short | 1950-1990 | Drama | Romance
+"Plaisir, Le",Foreign | Short | 1950-1990 | Drama | Romance
+"River, The",Foreign | Short | 1950-1990 | Drama | Romance
+"Sur, El",Foreign | Short | 1950-1990 | Drama | Romance
+Voyage in Italy,Foreign | Short | 1950-1990 | Drama | Romance
+Simon of the Desert,Foreign | Short | 1950-1990 | Drama | Short
+Persona,Foreign | Short | 1950-1990 | Drama | Thriller
+Anatahan,Foreign | Short | 1950-1990 | Drama | War
+Ashes and Diamonds,Foreign | Short | 1950-1990 | Drama | War
+Au revoir les enfants,Foreign | Short | 1950-1990 | Drama | War
+"Cranes Are Flying, The",Foreign | Short | 1950-1990 | Drama | War
+Forbidden Games,Foreign | Short | 1950-1990 | Drama | War
+Ivan's Childhood,Foreign | Short | 1950-1990 | Drama | War
+Antonio das Mortes,Foreign | Short | 1950-1990 | Drama | Western
+"Discreet Charm of the Bourgeoisie, The",Foreign | Short | 1950-1990 | Fantasy | Drama
+Lancelot du Lac,Foreign | Short | 1950-1990 | Fantasy | Drama
+Miracle in Milan,Foreign | Short | 1950-1990 | Fantasy | Drama
+"Seventh Seal, The",Foreign | Short | 1950-1990 | Fantasy | Drama
+My Neighbour Totoro,Foreign | Short | 1950-1990 | Fantasy | Family
+"Red Balloon, The",Foreign | Short | 1950-1990 | Fantasy | Family
+Eyes Without a Face,Foreign | Short | 1950-1990 | Horror | Drama
+Hour of the Wolf,Foreign | Short | 1950-1990 | Horror | Drama
+Suspiria,Foreign | Short | 1950-1990 | Horror | Horror
+Videodrome,Foreign | Short | 1950-1990 | Horror | Science Fiction
+French Cancan,Foreign | Short | 1950-1990 | Musical | Drama
+"Umbrellas of Cherbourg, The",Foreign | Short | 1950-1990 | Musical | Musical
+"Jetée, La",Foreign | Short | 1950-1990 | Science Fiction | Drama
+Alphaville,Foreign | Short | 1950-1990 | Science Fiction | Mystery
+"Bandido da Luz Vermelha, O",Foreign | Short | 1950-1990 | Thriller | Crime
+"Better Tomorrow, A",Foreign | Short | 1950-1990 | Thriller | Crime
+Elevator to the Gallows,Foreign | Short | 1950-1990 | Thriller | Crime
+"Samouraï, Le",Foreign | Short | 1950-1990 | Thriller | Crime
+Touchez pas au Grisbi,Foreign | Short | 1950-1990 | Thriller | Crime
+"Boucher, Le",Foreign | Short | 1950-1990 | Thriller | Drama
+Deep Red,Foreign | Short | 1950-1990 | Thriller | Horror
+Fata Morgana,Foreign | Short | 1950-1990 | Avant-Garde | Avant-Garde
+"Hart of London, The",Foreign | Short | 1950-1990 | Avant-Garde | Avant-Garde
+Wavelength,Foreign | Short | 1950-1990 | Avant-Garde | Avant-Garde
+Sans soleil,Foreign | Short | 1950-1990 | Avant-Garde | Documentary
+"Colour of Pomegranate, The",Foreign | Short | 1950-1990 | Avant-Garde | History
+Caro diario,Foreign | Short | 1990-Now | Comedy | Comedy
+"Gleaners & I, The",Foreign | Short | 1990-Now | Documentary | Documentary
+Close-Up,Foreign | Short | 1990-Now | Documentary | Drama
+Nostalgia for the Light,Foreign | Short | 1990-Now | Documentary | Drama
+Lessons of Darkness,Foreign | Short | 1990-Now | Documentary | Science Fiction
+All About My Mother,Foreign | Short | 1990-Now | Drama | Comedy
+"Ciénaga, La",Foreign | Short | 1990-Now | Drama | Comedy
+"Goodbye, Dragon Inn",Foreign | Short | 1990-Now | Drama | Comedy
+"Match Factory Girl, The",Foreign | Short | 1990-Now | Drama | Comedy
+"Moment of Innocence, A",Foreign | Short | 1990-Now | Drama | Comedy
+Hana-Bi,Foreign | Short | 1990-Now | Drama | Crime
+Beau travail,Foreign | Short | 1990-Now | Drama | Drama
+Crash,Foreign | Short | 1990-Now | Drama | Drama
+Days of Being Wild,Foreign | Short | 1990-Now | Drama | Drama
+Fat Girl,Foreign | Short | 1990-Now | Drama | Drama
+"Haine, La",Foreign | Short | 1990-Now | Drama | Drama
+In Praise of Love,Foreign | Short | 1990-Now | Drama | Drama
+Irréversible,Foreign | Short | 1990-Now | Drama | Drama
+Mother and Son,Foreign | Short | 1990-Now | Drama | Drama
+Nouvelle vague,Foreign | Short | 1990-Now | Drama | Drama
+Rosetta,Foreign | Short | 1990-Now | Drama | Drama
+Sicilia!,Foreign | Short | 1990-Now | Drama | Drama
+"Son, The",Foreign | Short | 1990-Now | Drama | Drama
+Songs from the Second Floor,Foreign | Short | 1990-Now | Drama | Drama
+"Spring, Summer, Autumn, Winter… and Spring",Foreign | Short | 1990-Now | Drama | Drama
+Taste of Cherry,Foreign | Short | 1990-Now | Drama | Drama
+Ten,Foreign | Short | 1990-Now | Drama | Drama
+Three Colours: Blue,Foreign | Short | 1990-Now | Drama | Drama
+Three Colours: Red,Foreign | Short | 1990-Now | Drama | Drama
+Through the Olive Trees,Foreign | Short | 1990-Now | Drama | Drama
+"Headless Woman, The",Foreign | Short | 1990-Now | Drama | Mystery
+Chungking Express,Foreign | Short | 1990-Now | Drama | Romance
+Happy Together,Foreign | Short | 1990-Now | Drama | Romance
+In the Mood for Love,Foreign | Short | 1990-Now | Drama | Romance
+"Double Life of Veronique, The",Foreign | Short | 1990-Now | Fantasy | Drama
+Russian Ark,Foreign | Short | 1990-Now | Fantasy | Drama
