@@ -110,7 +110,8 @@ function update(source) {
       links = treeData.descendants().slice(1);
 
   // Normalize for fixed-depth.
-  nodes.forEach(function(d){ d.y = d.depth * 180});
+  // the number multiplied after the d.depth is the length of the bezier curve link
+  nodes.forEach(function(d){ d.y = d.depth * 120});
 
   // ****************** Nodes section ***************************
 
@@ -134,22 +135,6 @@ function update(source) {
           return d._children ? "lightsteelblue" : "#fff";
       });
 
-  // // ORIGINAL Add labels for the nodes
-  // nodeEnter.append('text')
-  //     .attr("dy", ".35em")
-  //     .attr("y", function(d) {
-  //         return d.children || d._children ? -18 : 10;
-  //     })
-  //     .attr("text-anchor", function(d) {
-  //         return d.children || d._children ? "start" : "end";
-  //     })
-  //     // .text(function(d) { return d.data.name; });
-  //     // this line makes it so you only take the last value of the unique children name for the label 
-  //     // taken from the always good tom shanley: https://bl.ocks.org/tomshanley/229b9c76f8a8009022b597108051e706
-  //     .text(function(d) { return d.data.name.substring(d.data.name.lastIndexOf("|") + 1); })
-  //     .call(wrap)
-  //     // .call(wrap, 75);
-
   // NEW Add labels for the nodes
   nodeEnter.append('text')
       // .attr("dy", "-1.1em")
@@ -167,12 +152,31 @@ function update(source) {
   // UPDATE
   var nodeUpdate = nodeEnter.merge(node);
 
+  nodeUpdate.select("text")
+  // .attr("x", 0)
+  // .attr("y", function(d) {
+  //         return d.children || d._children ? 15 : 15;
+  //     })
+  // .attr("text-anchor", "middle")
+  .text(function(d) {return d.data.name.substring(d.data.name.lastIndexOf("|")).replace("| ", "") })
+  // .text(function(d) {return d.data.name.substring(d.data.name.lastIndexOf("|") + 1); })
+  .call(wrap, 43);
+
   // Transition to the proper position for the node
   nodeUpdate.transition()
     .duration(duration)
     .attr("transform", function(d) { 
         return "translate(" + d.x + "," + d.y + ")";
      });
+  // add labels for transititon nodes
+  // .on("end", function () {
+  //   d3.selectAll("tspan")
+  //   .text(function(d) { return d.data.name.substring(d.data.name.lastIndexOf("|") + 1); })
+  //   .call(wrap, 43)
+  // });
+  // .text(console.log(function(d) { return d.data.name.substring(d.data.name.lastIndexOf("|") + 1); }))
+  // 
+  // .call(wrap, 43);
 
   // Update the node attributes and style
   nodeUpdate.select('circle.node')
