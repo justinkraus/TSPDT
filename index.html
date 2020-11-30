@@ -14,7 +14,7 @@
 
 .link {
   fill: none;
-  stroke: #ccc;
+  stroke: darkgrey;
   stroke-width: 2px;
 }
 
@@ -27,6 +27,34 @@ body {
   text-align: center;
 }
 
+.notes{
+  font: 10px sans-serif;
+  display: inline-block;
+  margin: auto;
+  justify-content: center;
+}
+
+.notesTitle{
+  font: 11px sans-serif;
+  font-weight: bold;
+  display: inline-block;
+  margin: auto;
+  justify-content: center;
+}
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 120px;
+  height: 100px;
+  padding: 8px;
+  font: 10px sans-serif;
+  background: #ffff99;
+  border: solid 1px #aaa;
+  border-radius: 8px;
+  pointer-events: none;
+  }
+
 </style>
 
 <body>
@@ -34,17 +62,20 @@ body {
 
 <!-- load the d3.js library -->	
 <script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/underscore@1.11.0/underscore-min.js"></script>
 <script>
 
 // Create a new <text> element for every data element.
 
 
-d3.csv("filmtree2.csv").then(function(data){
+d3.csv("filmtree4.csv").then(function(data){
 
+// assign variable names to each column
 
 childColumn = data.columns[0]
 parentColumn = data.columns[1]
 
+//apply d3 stratify to convert csv to nested JSON needed for tidy tree
 
 var treeData = d3.stratify()
     .id(d => d[childColumn])
@@ -58,9 +89,14 @@ treeData.each(function(d) {
 
 // Set the dimensions and margins of the diagram
 var margin = {top: 50, right: 50, bottom: 50, left: 50},
-    width = 1200 - margin.left - margin.right,
-    height = 1200 - margin.top - margin.bottom;
+    width = 1200, 
+    height = 1200;
 
+// // with margins subtracted
+// var svgHeight = height - margin.top - margin.bottom
+// var svgWidth = width - margin.right - margin.left
+
+//full working
 var svgHeight = height + margin.top + margin.bottom
 var svgWidth = width + margin.right + margin.left
 
@@ -68,14 +104,16 @@ var svgWidth = width + margin.right + margin.left
 // appends a 'group' element to 'svg'
 // moves the 'group' element to the top left margin
 var svg = d3.select("body").append("svg")
-    // .attr("width", width + margin.right + margin.left)
-    // .attr("height", height + margin.top + margin.bottom)
+    .attr("width", width)
+    .attr("height", height)
     // set the viewbox to -10 to ensure y was aligned properly
-    .attr("viewBox", `0 -12 ` + svgWidth + ` ` + svgHeight )
+    // .attr("viewBox", `0 -12 ` + svgWidth + ` ` + svgHeight )
+    .attr("viewBox", `0 0 ` + svgWidth + ` ` + svgHeight )
     .append("g")
     // .attr("transform", "translate("
     //       + margin.left + "," + margin.top + ")");
     .attr("transform", "scale(1.08)")
+
     //transform for .nodesize
     // .attr("transform", "translate(" + (width/2) + "," + margin.top + ")");
 
@@ -84,6 +122,10 @@ svg.append("rect")
     .attr("height", "100%")
     .attr("fill", "lightgrey");
 
+// Add tooltip div
+var div = d3.select("body").append("div")
+.attr("class", "tooltip")
+.style("opacity", 1e-6);
 
 var i = 0,
     duration = 750,
@@ -93,7 +135,7 @@ var i = 0,
 // original
 // var treemap = d3.tree().size([height, width]);
 // original flipped for vertical
-var treemap = d3.tree().size([width, height])
+var treemap = d3.tree().size([width-200, height])
       .separation(function(a, b) {
         return a.parent == b.parent ? 1 : 1;
       });
@@ -107,6 +149,7 @@ var treemap = d3.tree().size([width, height])
 root = d3.hierarchy(treeData, function(d) { return d.children; });
 root.x0 = height / 2;
 root.y0 = 0;
+
 
 // Collapse after the second level
 root.children.forEach(collapse);
@@ -134,6 +177,54 @@ function update(source) {
   // Normalize for fixed-depth.
   // the number multiplied after the d.depth is the length of the bezier curve link
   nodes.forEach(function(d){ d.y = d.depth * 100});
+  nodes.forEach(function(d){ d.x = d.x});
+
+
+  // adds level labels at each depth
+  var depthHash = _.uniq(_.pluck(nodes, "depth")).sort();
+  svg.selectAll("g.levels-svg").remove();
+  var levelSVG = svg.append("g").attr("class", "levels-svg");
+    var levels =  levelSVG.selectAll("g.level");
+  levels.data(depthHash)
+    .enter().append("g")
+    .attr("class", "level")
+    .attr("transform", function(d) { return "translate(" + 1000 + "," + ((d*100)+10) + ")"; })
+    .append("text")
+    .html(function(d){
+      if (d == 0) {
+        return "<tspan class='notes' x='0' dy='1.2em'>" + "The top 1000 films of all time" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em'>" + "as determined by TSPDT's 2020 survey" + "</tspan>";
+      }
+      else if (d == 1) {
+        return "<tspan class='notesTitle' x='0' dy='.2em'>" + "Language" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em'>" + "Determined by country of origin" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em'>" + "English: US and UK" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em'>" + "Foreign: All others" + "</tspan>";
+      }
+      else if (d == 2) {
+        return "<tspan class='notesTitle' x='0' dy='.2em'>" + "Length of Film" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em'>" + "Long: 130+ mins" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em'>" + "Average: 100-130 mins" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em'>" + "Short: 100 mins or less" + "</tspan>";
+      }
+      else if (d == 3) {
+        return "<tspan class='notesTitle' x='0' dy='.2em'>" + "Film Era" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em'>" + "Ranges that capture the year" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em'>" + "the film was released" + "</tspan>";
+      }
+      else if (d == 4) {
+        return "<tspan class='notesTitle' x='0' dy='.2em'>" + "Genre" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em'>" + "Primary genre of the film as listed by TSPDT" + "</tspan>";
+      }
+      else if (d == 5) {
+        return "<tspan class='notesTitle' x='0' dy='.2em'>" + "Films" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em'>" + "Hover each for more info" + "</tspan>";
+      }
+      else {
+        return "level-" + d;
+        } 
+    });
+
 
   // ****************** Nodes section ***************************
 
@@ -152,6 +243,10 @@ function update(source) {
   // Add Circle for the nodes
   nodeEnter.append('circle')
       .attr('class', 'node')
+      //mouse events for tooltips
+      .on("mouseover", mouseover)
+      .on("mousemove", function(d){mousemove(d);})
+      .on("mouseout", mouseout)
       .attr('r', 1e-6)
       .style("fill", function(d) {
           return d._children ? "lightsteelblue" : "#fff";
@@ -264,6 +359,8 @@ function update(source) {
     d.y0 = d.y;
   });
 
+  
+
   // Creates a curved (diagonal) path from parent to the child nodes
   function diagonal(s, d) {
 
@@ -323,6 +420,28 @@ function update(source) {
         }
     });
 }
+
+//tooltip for tidy tree borrowed from here: 
+//http://bl.ocks.org/anotherjavadude/2952964
+
+function mouseover() {
+                div.transition()
+                .duration(300)
+                .style("opacity", 1);
+            }
+
+function mousemove(d) {
+    div
+    .html(d.data.data.tooltiptext)
+    .style("left", (d3.event.pageX ) + "px")
+    .style("top", (d3.event.pageY) + "px");
+}
+
+function mouseout() {
+    div.transition()
+    .duration(300)
+    .style("opacity", 1e-6);
+    }
 
 
 
