@@ -25,6 +25,7 @@ svg {
 
 body {
   text-align: center;
+  margin: auto 10%;
 }
 
 .notes{
@@ -55,11 +56,20 @@ div.tooltip {
   pointer-events: none;
   }
 
+#intro{
+  font-family: Georgia;
+  margin: auto 12%;
+}
+
 </style>
 
 <body>
+<div id="intro">
 <h1>They Shoot Pictures, Don't They?</h1>
-
+<h3>A decision tree to navigate the 1000 greatest films of all-time</h3>
+<p>They Shoot Pictures Don't They (TSPDT) is an annual aggregation of "best-of" film lists to determine the most critically acclaimed movies of all-time. The 2020 version shown here aggregates from over 11,000 individual lists from critics, filmmakers, publications, and select-individuals to determine the top 1000. <a href="https://www.theyshootpictures.com/gf1000.htm">Full details on the data and process is available here.</a></p>
+<p>The list has been rearranged into a hierarchy based on categorical aspects of the film including language, length of film, year the film was made, and genre to create an alternative approach to exploring the list.</p>
+</div>
 <!-- load the d3.js library -->	
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/underscore@1.11.0/underscore-min.js"></script>
@@ -90,7 +100,7 @@ treeData.each(function(d) {
 // Set the dimensions and margins of the diagram
 var margin = {top: 50, right: 50, bottom: 50, left: 50},
     width = 1200, 
-    height = 1200;
+    height = 600;
 
 // // with margins subtracted
 // var svgHeight = height - margin.top - margin.bottom
@@ -120,7 +130,7 @@ var svg = d3.select("body").append("svg")
 svg.append("rect")
     .attr("width", "100%")
     .attr("height", "100%")
-    .attr("fill", "lightgrey");
+    .attr("fill", "white");
 
 // Add tooltip div
 var div = d3.select("body").append("div")
@@ -176,7 +186,7 @@ function update(source) {
 
   // Normalize for fixed-depth.
   // the number multiplied after the d.depth is the length of the bezier curve link
-  nodes.forEach(function(d){ d.y = d.depth * 100});
+  nodes.forEach(function(d){ d.y = (d.depth * 100) + 10});
   nodes.forEach(function(d){ d.x = d.x});
 
 
@@ -257,7 +267,7 @@ function update(source) {
       // .attr("dy", "-1.1em")
       .attr("x", 0)
       .attr("y", function(d) {
-          return d.children || d._children ? 15 : 15;
+          return d.children || d._children ? 16 : 16;
       })
       .attr("text-anchor", "middle")
       // .text(function(d) { return d.data.name; });
