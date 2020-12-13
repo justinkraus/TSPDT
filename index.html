@@ -24,7 +24,7 @@ svg {
 }
 
 body {
-  text-align: center;
+/*  text-align: center;*/
 }
 
 .notes{
@@ -67,7 +67,7 @@ div.tooltip {
 
 #intro h3{
   font-family: Georgia;
-  margin: auto 10%;
+/*  margin: auto 10%;*/
   color: grey;
   font-style: italic;
 }
@@ -75,6 +75,10 @@ div.tooltip {
 #intro p{
   font: 1em sans-serif;
 }
+
+/*#line1 {
+
+}*/
 
 </style>
 
@@ -85,6 +89,13 @@ div.tooltip {
 <p>They Shoot Pictures Don't They (TSPDT) is an annual aggregation of "best-of" film lists to determine the most critically acclaimed movies of all-time. The 2020 version shown here aggregates from over 11,000 individual lists from critics, filmmakers, and publications to determine the top 1000. <a href="https://www.theyshootpictures.com/gf1000.htm">Full details on the data and aggregation process is available here.</a></p>
 <p>The list has been rearranged into a hierarchy of categorical aspects of films on the list including language, length of film, year the film was made, and genre to create an alternative approach to exploring the list.</p>
 </div>
+<!-- <svg id="lines">
+  <line id="line1" x1="0" y1="110" x2="1000" y2="110">
+  <line id="line2" x1="0" y1="210" x2="1000" y2="210">
+  <line id="line3" x1="0" y1="310" x2="1000" y2="310">
+  <line id="line4" x1="0" y1="410" x2="1000" y2="410">
+  <line id="line5" x1="0" y1="510" x2="1000" y2="510">
+</svg> -->
 <!-- load the d3.js library -->	
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/underscore@1.11.0/underscore-min.js"></script>
@@ -248,8 +259,107 @@ function update(source) {
       else {
         return "level-" + d;
         } 
-    });
+    }).append("line")
+    .html(function(d){
+      if (d == 1) {
+        return   svg.append("line")
+        .style("stroke", "lightgrey")
+        .style("stroke-dasharray", "5,5")
+        .attr("x1", 0)
+        .attr("y1", 110)
+        .attr("x2", 1000)
+        .attr("y2", 110);
+      }
+      else if (d == 2) {
+        return   svg.append("line")
+        .style("stroke", "lightgrey")
+        .style("stroke-dasharray", "5,5")
+        .attr("x1", 0)
+        .attr("y1", 210)
+        .attr("x2", 1000)
+        .attr("y2", 210);
+      }
+      else if (d == 3) {
+        return   svg.append("line")
+        .style("stroke", "lightgrey")
+        .style("stroke-dasharray", "5,5")
+        .attr("x1", 0)
+        .attr("y1", 310)
+        .attr("x2", 1000)
+        .attr("y2", 310);
+      }
+      else if (d == 4) {
+        return   svg.append("line")
+        .style("stroke", "lightgrey")
+        .style("stroke-dasharray", "5,5")
+        .attr("x1", 0)
+        .attr("y1", 410)
+        .attr("x2", 1000)
+        .attr("y2", 410);
+      }
+      else if (d == 5) {
+        return   svg.append("line")
+        .style("stroke", "lightgrey")
+        .style("stroke-dasharray", "5,5")
+        .attr("x1", 0)
+        .attr("y1", 510)
+        .attr("x2", 1000)
+        .attr("y2", 510);
+      }
+      else {
+        return "level-" + d;
+        } 
+    })
+    ;
 
+    //working to add lines, won't remove
+// .append("line")
+//     .html(function(d){
+//       if (d == 1) {
+//         return   svg.append("line")
+//         .style("stroke", "lightgrey")
+//         .attr("x1", 0)
+//         .attr("y1", 110)
+//         .attr("x2", 1000)
+//         .attr("y2", 110);
+//       }
+//       else if (d == 2) {
+//         return   svg.append("line")
+//         .style("stroke", "lightgrey")
+//         .attr("x1", 0)
+//         .attr("y1", 210)
+//         .attr("x2", 1000)
+//         .attr("y2", 210);
+//       }
+//       else if (d == 3) {
+//         return   svg.append("line")
+//         .style("stroke", "lightgrey")
+//         .attr("x1", 0)
+//         .attr("y1", 310)
+//         .attr("x2", 1000)
+//         .attr("y2", 310);
+//       }
+//       else if (d == 4) {
+//         return   svg.append("line")
+//         .style("stroke", "lightgrey")
+//         .attr("x1", 0)
+//         .attr("y1", 410)
+//         .attr("x2", 1000)
+//         .attr("y2", 410);
+//       }
+//       else if (d == 5) {
+//         return   svg.append("line")
+//         .style("stroke", "lightgrey")
+//         .attr("x1", 0)
+//         .attr("y1", 510)
+//         .attr("x2", 1000)
+//         .attr("y2", 510);
+//       }
+//       else {
+//         return "level-" + d;
+//         } 
+//     })
+//     ;
 
   // ****************** Nodes section ***************************
 
