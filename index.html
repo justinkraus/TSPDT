@@ -18,6 +18,8 @@
   stroke-width: 2px;
 }
 
+/*.link:hover {stroke: red;stroke-width: 2px}*/
+
 svg {
     display: block;
     margin: auto auto;
@@ -104,7 +106,7 @@ div.tooltip {
 // Create a new <text> element for every data element.
 
 
-d3.csv("filmtree4.csv").then(function(data){
+d3.csv("filmtree5.csv").then(function(data){
 
 // assign variable names to each column
 
@@ -157,6 +159,43 @@ svg.append("rect")
     .attr("width", "100%")
     .attr("height", "100%")
     .attr("fill", "white");
+
+// add guidelines
+svg.append("line")
+        .style("stroke", "lightgrey")
+        .attr("x1", 0)
+        .attr("y1", 110)
+        .attr("x2", 1000)
+        .attr("y2", 110);
+
+svg.append("line")
+        .style("stroke", "lightgrey")
+        .attr("x1", 0)
+        .attr("y1", 210)
+        .attr("x2", 1000)
+        .attr("y2", 210);
+
+svg.append("line")
+        .style("stroke", "lightgrey")
+        .attr("x1", 0)
+        .attr("y1", 310)
+        .attr("x2", 1000)
+        .attr("y2", 310);
+
+svg.append("line")
+        .style("stroke", "lightgrey")
+        .attr("x1", 0)
+        .attr("y1", 410)
+        .attr("x2", 1000)
+        .attr("y2", 410);
+
+svg.append("line")
+        .style("stroke", "lightgrey")
+        .attr("x1", 0)
+        .attr("y1", 510)
+        .attr("x2", 1000)
+        .attr("y2", 510);
+
 
 // Add tooltip div
 var div = d3.select("body").append("div")
@@ -254,107 +293,66 @@ function update(source) {
       }
       else if (d == 5) {
         return "<tspan class='notesTitle' x='0' dy='.2em'>" + "Films" + "</tspan>" +
-         "<tspan class='notes' x='0' dy='1.2em'>" + "Hover each for more info" + "</tspan>";
+         "<tspan class='notes' x='0' dy='1.2em'>" + "Hover for more info" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em'>" + "Node Colors" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em' fill='#e31a1c'>" + "Top 10" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em' fill='#fd8d3c'>" + "Top 100" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em' fill='#fecc5c'>" + "Top 500" + "</tspan>" +
+         "<tspan class='notes' x='0' dy='1.2em' fill='#ffeda0'>" + "Top 1000" + "</tspan>";
       }
       else {
         return "level-" + d;
         } 
-    }).append("line")
-    .html(function(d){
-      if (d == 1) {
-        return   svg.append("line")
-        .style("stroke", "lightgrey")
-        .attr("x1", 0)
-        .attr("y1", 110)
-        .attr("x2", 1000)
-        .attr("y2", 110);
-      }
-      else if (d == 2) {
-        return   svg.append("line")
-        .style("stroke", "lightgrey")
-        .attr("x1", 0)
-        .attr("y1", 210)
-        .attr("x2", 1000)
-        .attr("y2", 210);
-      }
-      else if (d == 3) {
-        return   svg.append("line")
-        .style("stroke", "lightgrey")
-        .attr("x1", 0)
-        .attr("y1", 310)
-        .attr("x2", 1000)
-        .attr("y2", 310);
-      }
-      else if (d == 4) {
-        return   svg.append("line")
-        .style("stroke", "lightgrey")
-        .attr("x1", 0)
-        .attr("y1", 410)
-        .attr("x2", 1000)
-        .attr("y2", 410);
-      }
-      else if (d == 5) {
-        return   svg.append("line")
-        .style("stroke", "lightgrey")
-        .attr("x1", 0)
-        .attr("y1", 510)
-        .attr("x2", 1000)
-        .attr("y2", 510);
-      }
-      else {
-        return "level-" + d;
-        } 
-    })
-    ;
+    });
+    // adding lines, only kept appending, would never remove. Did not function like the text blurbs above.
+    // .append("line")
+    // .html(function(d){
+    //   if (d == 1) {
+    //     return   svg.append("line")
+    //     .style("stroke", "lightgrey")
+    //     .attr("x1", 0)
+    //     .attr("y1", 110)
+    //     .attr("x2", 1000)
+    //     .attr("y2", 110);
+    //   }
+    //   else if (d == 2) {
+    //     return   svg.append("line")
+    //     .style("stroke", "lightgrey")
+    //     .attr("x1", 0)
+    //     .attr("y1", 210)
+    //     .attr("x2", 1000)
+    //     .attr("y2", 210);
+    //   }
+    //   else if (d == 3) {
+    //     return   svg.append("line")
+    //     .style("stroke", "lightgrey")
+    //     .attr("x1", 0)
+    //     .attr("y1", 310)
+    //     .attr("x2", 1000)
+    //     .attr("y2", 310);
+    //   }
+    //   else if (d == 4) {
+    //     return   svg.append("line")
+    //     .style("stroke", "lightgrey")
+    //     .attr("x1", 0)
+    //     .attr("y1", 410)
+    //     .attr("x2", 1000)
+    //     .attr("y2", 410);
+    //   }
+    //   else if (d == 5) {
+    //     return   svg.append("line")
+    //     .style("stroke", "lightgrey")
+    //     .attr("x1", 0)
+    //     .attr("y1", 510)
+    //     .attr("x2", 1000)
+    //     .attr("y2", 510);
+    //   }
+    //   else {
+    //     return "level-" + d;
+    //     } 
+    // })
+    // ;
 
-    //working to add lines, won't remove
-// .append("line")
-//     .html(function(d){
-//       if (d == 1) {
-//         return   svg.append("line")
-//         .style("stroke", "lightgrey")
-//         .attr("x1", 0)
-//         .attr("y1", 110)
-//         .attr("x2", 1000)
-//         .attr("y2", 110);
-//       }
-//       else if (d == 2) {
-//         return   svg.append("line")
-//         .style("stroke", "lightgrey")
-//         .attr("x1", 0)
-//         .attr("y1", 210)
-//         .attr("x2", 1000)
-//         .attr("y2", 210);
-//       }
-//       else if (d == 3) {
-//         return   svg.append("line")
-//         .style("stroke", "lightgrey")
-//         .attr("x1", 0)
-//         .attr("y1", 310)
-//         .attr("x2", 1000)
-//         .attr("y2", 310);
-//       }
-//       else if (d == 4) {
-//         return   svg.append("line")
-//         .style("stroke", "lightgrey")
-//         .attr("x1", 0)
-//         .attr("y1", 410)
-//         .attr("x2", 1000)
-//         .attr("y2", 410);
-//       }
-//       else if (d == 5) {
-//         return   svg.append("line")
-//         .style("stroke", "lightgrey")
-//         .attr("x1", 0)
-//         .attr("y1", 510)
-//         .attr("x2", 1000)
-//         .attr("y2", 510);
-//       }
-//       else {
-//         return "level-" + d;
-//         } 
-//     })
-//     ;
 
   // ****************** Nodes section ***************************
 
@@ -374,12 +372,19 @@ function update(source) {
   nodeEnter.append('circle')
       .attr('class', 'node')
       //mouse events for tooltips
-      .on("mouseover", mouseover)
+      // .on("mouseover", mouseover)
+      .on("mouseover", function(d){mouseover(d);})
       .on("mousemove", function(d){mousemove(d);})
-      .on("mouseout", mouseout)
+      // .on("mouseout", mouseout)
+      .on("mouseout", function(d){mouseout(d);})
       .attr('r', 1e-6)
       .style("fill", function(d) {
-          return d._children ? "lightsteelblue" : "#fff";
+          // console.log(d._children)
+          if(d.data.data.level === "lightsteelblue") return "lightsteelblue";
+          if(d.data.data.level === "#e31a1c") return "#e31a1c";
+          if(d.data.data.level === "#fd8d3c") return "#fd8d3c";
+          if(d.data.data.level === "#fecc5c") return "#fecc5c";
+          if(d.data.data.level === "#ffffb2") return "#ffffb2";
       });
 
   // NEW Add labels for the nodes
@@ -429,7 +434,11 @@ function update(source) {
   nodeUpdate.select('circle.node')
     .attr('r', 8)
     .style("fill", function(d) {
-        return d._children ? "lightsteelblue" : "#fff";
+          if(d.data.data.level === "lightsteelblue") return "lightsteelblue";
+          if(d.data.data.level === "#e31a1c") return "#e31a1c";
+          if(d.data.data.level === "#fd8d3c") return "#fd8d3c";
+          if(d.data.data.level === "#fecc5c") return "#fecc5c";
+          if(d.data.data.level === "#ffffb2") return "#ffffb2";
     })
     .attr('cursor', 'pointer');
 
@@ -554,7 +563,22 @@ function update(source) {
 //tooltip for tidy tree borrowed from here: 
 //http://bl.ocks.org/anotherjavadude/2952964
 
-function mouseover() {
+//new mouseover and mouseout functions added from here:
+// https://stackoverflow.com/questions/48283022/highlight-parent-path-to-the-root
+// highlights the selected node path
+
+// function mouseover() {
+//                 div.transition()
+//                 .duration(300)
+//                 .style("opacity", 1);
+//             }
+
+function mouseover(d) {
+                var filtered = node.filter(function(e) {
+                return d.ancestors().indexOf(e) > -1
+                });
+                filtered.selectAll("circle").style("fill", "grey");
+                filtered.selectAll("text").style("fill", "grey");
                 div.transition()
                 .duration(300)
                 .style("opacity", 1);
@@ -567,7 +591,18 @@ function mousemove(d) {
     .style("top", (d3.event.pageY) + "px");
 }
 
-function mouseout() {
+// function mouseout() {
+//     div.transition()
+//     .duration(300)
+//     .style("opacity", 1e-6);
+//     }
+
+function mouseout(d) {
+    var filtered = node.filter(function(e) {
+            return d.ancestors().indexOf(e) > -1
+    });
+    filtered.selectAll("circle").style("fill", "lightsteelblue");
+    filtered.selectAll("text").style("fill", "black");
     div.transition()
     .duration(300)
     .style("opacity", 1e-6);
