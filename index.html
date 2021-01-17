@@ -86,7 +86,7 @@ div.tooltip {
 
 <body>
 <div id="intro">
-<h1>They Watch Pictures, Don't They?</h1>
+<h1>They Shoot Pictures, Don't They?</h1>
 <h3>A decision tree to navigate the 1000 greatest films of all-time</h3>
 <p>They Shoot Pictures Don't They (TSPDT) is an annual aggregation of "best-of" film lists to determine the most critically acclaimed movies of all-time. The 2020 version shown here aggregates from over 11,000 individual lists from critics, filmmakers, and publications to determine the top 1000. <a href="https://www.theyshootpictures.com/gf1000.htm">Full details on the data and aggregation process is available here.</a></p>
 <p>The list has been rearranged into a hierarchy of categorical aspects of films on the list including language, length of film, year the film was made, and genre to create an alternative approach to exploring the list.</p>
@@ -99,10 +99,16 @@ div.tooltip {
   <line id="line5" x1="0" y1="510" x2="1000" y2="510">
 </svg> -->
 <!-- load the d3.js library -->	
-<script src="https://d3js.org/d3.v5.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/underscore@1.11.0/underscore-min.js"></script>
+<!-- <script src="https://d3js.org/d3.v5.min.js"></script> -->
+<script src="./d3v5/d3.v5.min.js"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/underscore@1.11.0/underscore-min.js"></script> -->
+<script src="./d3v5/underscore-min.js"></script>
+
 <script>
 
+// overall structure learned from d3noob tutorial for d3 v5:
+// https://leanpub.com/d3-t-and-t-v5
+// https://gist.github.com/d3noob/3baa7023d4d1661536a491b51460cfe9
 // Create a new <text> element for every data element.
 
 
